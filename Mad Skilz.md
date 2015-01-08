@@ -4,8 +4,9 @@ We are: Enthusiasm/passion, people-first, Ship It!, Leadership, Reinvest
 ## Developer
 Headline: I am a valuable, enthusiastic and net-positive member of a Readify team.
 
-Defining characteristics and examples: 
-I write high quality code quickly and ship it to production.
+### Defining characteristics and examples:
+
+#### I write high quality code quickly and ship it to production.
 - I am learning to tame complexity when building software products.
 - I am learning how to write valuable automated tests.
 - I am learning how to pull together the LEGO blocks of a product.
