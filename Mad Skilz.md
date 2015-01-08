@@ -2,7 +2,7 @@
 We are: Enthusiasm/passion, people-first, Ship It!, Leadership, Reinvest
 
 ## Developer
-Headline: I am a valuable, enthusiastic and net-positive member of a Readify team.
+> I am a valuable, enthusiastic and net-positive member of a Readify team.
 
 ### Defining characteristics and examples:
 
