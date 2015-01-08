@@ -142,3 +142,15 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am a trusted voice to the Readify Executive.
 - I conceptualise and drive initiatives at the executive level in Readify and have track record of bringing others along for the journey.
 - I recognise that I'm an overhead and the value I bring to the company is different to most billable consultants, and I recognise the importance of that fact.
+
+## Thoughts about rating
+- Consider rating ourselves at the **defining characteristics** level so it's not too hard to maintain over time
+- The examples could be used as a frame of reference for the rating
+- Change the terms...
+  - No brainer: _You're great at this! We don't even need to talk about it._
+  - Maturing: _Here's some suggestions, take them or leave them - it's your call._
+    - It would make sense to record the suggestions.
+  - Needs coaching: _This is an area you're weak in, let's work out a plan and walk this out together._
+    - It would make sense to record the coaching plan.
+- Call special attention to clearly outstanding/exemplary behaviour.
+  - Outstanding: _You simply shine in this area like very few others. I think people deserve to know this about you._
