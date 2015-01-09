@@ -143,6 +143,24 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I conceptualise and drive initiatives at the executive level in Readify and have track record of bringing others along for the journey.
 - I recognise that I'm an overhead and the value I bring to the company is different to most billable consultants, and I recognise the importance of that fact.
 
+# Perspective... running out of words quickly
+> Putting myself in, well, my own shoes:
+
+- As a person I’d prefer to get insight from someone’s real-life/coal-face experiences in going on the journey with me.
+- As a person I’d like insight from someone I’ve worked with and can trust to be both candid and fair.
+- As a person I’d like insight that is based in real-life examples rather than guesswork from afar.
+- As a person I’d like suggestions or a coaching plan that lead to me growing as an individual.
+- As a person I’d like to think that my growth/salary/promotion in Readify is in the sole discretion of a single person.
+- As a person I’d like my review to be based on several iterations, like an ongoing conversation, that way I feel like there’s been opportunity to grow and measure my growth.
+
+> And again:
+
+- As a leader I’d prefer to provide insights for someone I’ve been working with closely, where I’ve experienced what it’s like going on the journey with them.
+- As a leader I’d like this process to be centred around the person’s growth as an individual.
+- As a leader I’d like (very much) not to be “milked” for information, but have it collected as a natural by-product of leading a person.
+- As a leader I’d like to think that I’m not *solely* responsible for a person’s growth/salary/promotion in Readify.
+- As a leader I’d like to think that decisions for a person’s growth/salary/promotion in Readify are based on an ongoing conversation, not a single instance.
+
 ## Thoughts about rating
 - Consider rating ourselves at the **defining characteristics** level so it's not too hard to maintain over time
 - The examples could be used as a frame of reference for the rating
