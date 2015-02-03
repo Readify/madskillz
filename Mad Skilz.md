@@ -21,7 +21,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I write high quality code quickly and ship it to production.
 - I am learning to tame complexity when building software products.
 - I am learning how to write valuable automated tests.
-- I am becoming proficient with my tools and the core building blocks of the product.
+- I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning how to pull together the LEGO blocks of a product.
 - I am learning how to stand up a build and delivery pipeline.
 
@@ -46,24 +46,30 @@ Each of these sections seeks to describe some **defining characteristics** about
 > I am a highly sought after member of a Readify team with a proven record of shipping high quality code to production.
 
 #### I am trusted to ship full products (or vertical slices of larger products) from idea to production.
+- I am proficient with my tools and the core building blocks used by our team.
+- I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I am comfortable pulling together the LEGO blocks of a full product.
 - I am comfortable standing up an automated integration and delivery pipeline.
 - I am comfortable setting technical direction for brown-fields product, reducing technical debt
 - I know how to make pragmatic choices in order to ship a product.
+- I know when to call out for help and how to do it effectively.
 - I am technically persuasive.
 
 #### I am a technical mentor.
 - People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
 - I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
 - I am proactively reviewing other people's code so I can understand how best to help the team ship the best!
-- I take people on a technical journey and have them leave richer for the experience.
+- I can tactfully challenge and coach people and have them leave richer for the experience.
 - I am a confident and proficient teacher of my craft.
 
 #### I am a supporter of the journey.
 - I am a highly sought after team member because I'm a trusted and proactive supporter of my team and its leadership.
-- I get my hands dirty eagerly improving our product, our environment and our processes.
+- I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
+- I am a "boy scout", I recognise problems early and get in and fix them regardless of who's fault it is.
+- I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle the most difficult problems the team is facing, usually solving it with an impressive balance of finesse and pragmatism.
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
+- I adapt quickly to changing requirements and typically structure my approach to cater for this.
 
 #### I've become a student of my craft.
 - I am devoted to learning, it's become a natural part of my life.
