@@ -88,12 +88,15 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
+- I am proficient at delivering software projects using agile practices.
+- I can confidently pitch ideas and influence my customer's decisions.
 
 #### I am a proponent of the journey.
 - I invest in sustainable delivery understanding how to strike the balance between velocity and quality.
 - I am typically the first one to take responsibility for reducing waste in our process.
 
 #### I am investing back into Readify.
+- I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
 - I leave my clients with a clear sense of why they have invested in Readify.
 - I am mentoring another developer deliberately helping them to round out their skill set.
 - I am collaborating with another Senior Consultant so we can learn from each other's experiences.
