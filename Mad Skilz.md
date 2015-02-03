@@ -86,7 +86,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am maturing as a leader of people.
 - I am comfortable diving headfirst into moderately risky environments with relatively little upfront information and oversight.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
-- I am comfortable with transparently assessing risk, making recommendations and dealing with the consequences along the way.
+- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
 
 #### I am a proponent of the journey.
