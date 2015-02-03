@@ -21,19 +21,24 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I write high quality code quickly and ship it to production.
 - I am learning to tame complexity when building software products.
 - I am learning how to write valuable automated tests.
+- I am becoming proficient with my tools and the core building blocks of the product.
 - I am learning how to pull together the LEGO blocks of a product.
 - I am learning how to stand up a build and delivery pipeline.
 
 #### I am recognised by my desire to learn and my motivation to improve.
 - I am learning, maybe through a variety of ways like reading books, reading code, trying ideas and shipping them.
 - I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
+- I take my PD seriously and realise it is valuable to both myself and to Readify.
+- I reach out to my peers and leadership group to develop my PD plan.
 
 #### I am happy to go on a journey with the team.
 - Other team members genuinely want me on their team.
 - I happily take responsibility for what I produce.
+- I avoid going dark and I know when to call out for help.
 - Even when I disagree with something I continue work enthusiastically and learn from the journey.
 - Every venture has mundane tasks, and I work happily and diligently through them.
-
+- I go out of my way develop a friendly and professional rapport with my customer and their team members.
+- My contribution to team discussions are net-positive, informative and helpful.
 
 
 
