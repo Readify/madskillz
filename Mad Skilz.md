@@ -22,6 +22,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 
 #### I write high quality code quickly and ship it to production.
 - I am learning to tame complexity when building software products.
+- I am learning how to qualify and reduce technical debt.
 - I am learning how to write valuable automated tests.
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning how to pull together the LEGO blocks of a product.
@@ -50,6 +51,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I am trusted to ship full products (or vertical slices of larger products) from idea to production.
 - I am proficient with my tools and the core building blocks used by our team.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
+- I am proficient at qualifying and reducing technical debt.
 - I am comfortable pulling together the LEGO blocks of a full product.
 - I am comfortable standing up an automated integration and delivery pipeline.
 - I am comfortable setting technical direction for brown-fields product, reducing technical debt
