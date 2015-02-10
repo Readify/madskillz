@@ -105,9 +105,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I leave my clients with a clear sense of why they have invested in Readify.
 - I am mentoring another developer deliberately helping them to round out their skill set.
 - I am collaborating with another Senior Consultant so we can learn from each other's experiences.
-
-
-
+- I am known as someone who looks for opportunities to invest into the Readify teams in my state.
 
 ## Lead Consultant
 > I am trusted to autonomously lead people through high risk engagements with a proven record of delivering projects from inception to their successful completion.
@@ -132,7 +130,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am becoming a trusted voice to the Readify Executive and my opinions and ideas seem to carry some weight.
 - I am helping steer the public and private conversations within Readify towards positive and productive outcomes.
 - I represent the interest of the teams in my State to rest of Readify.
-- I am involved in some kind of initiative at the executive level in Readify.
+- I am involved in some kind of initiative at the national level in Readify.
 
 
 
