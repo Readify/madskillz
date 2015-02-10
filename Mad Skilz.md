@@ -102,6 +102,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 
 #### I am investing back into Readify.
 - I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
+- I am actively involved in the recruitment process, I get to help choose who I work with!
 - I leave my clients with a clear sense of why they have invested in Readify.
 - I am mentoring another developer deliberately helping them to round out their skill set.
 - I am collaborating with another Senior Consultant so we can learn from each other's experiences.
