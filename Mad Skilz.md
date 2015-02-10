@@ -129,6 +129,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am keeping in touch with previous clients actively looking for new opportunities.
 
 #### I am significantly investing back into Readify.
+- I am taking ownership of our retrospective process in our state.
 - I am becoming a trusted voice to the Readify Executive and my opinions and ideas seem to carry some weight.
 - I am helping steer the public and private conversations within Readify towards positive and productive outcomes.
 - I represent the interest of the teams in my State to rest of Readify.
