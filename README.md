@@ -144,7 +144,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I am a deeply respected leader of people.
 - My influence positively affects teams both inside and outside of Readify.
 - People both inside and outside of Readify aspire to be like me.
-- I inspire people to better themselves by simply being myself and doing what tents to come naturally.
+- I inspire people to better themselves by simply being myself and doing what tends to come naturally.
 - Pursuasion has become second nature to me, people tend to abandon their previous way of thinking and embrace mine, and are enriched by doing so.
 
 #### I am like a virtual CIO/CTO
