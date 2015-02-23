@@ -39,20 +39,20 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
 - Even when I disagree with something I continue work enthusiastically and learn from the journey.
-- Every venture has mundane tasks, and I work happily and diligently through them.
+- Every venture has mundane tasks and I work happily and diligently through them.
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
-- My contribution to team discussions are net-positive, informative and helpful.
+- My contributions to team discussions are net-positive, informative and helpful.
 
 
 
 ## Senior Developer
-> I am a highly sought after member of a Readify team with a proven record of shipping high quality code to production.
+> I am a highly sought-after member of a Readify team with a proven record of shipping high-quality code to production.
 
 #### I am trusted to ship full products (or vertical slices of larger products) from idea to production.
 - I am proficient with my tools and the core building blocks used by our team.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I am proficient at qualifying and reducing technical debt.
-- I am comfortable pulling together the LEGO blocks of a full product.
+- I am comfortable pulling together the Lego blocks of a full product.
 - I am comfortable standing up an automated integration and delivery pipeline.
 - I am comfortable setting technical direction for brown-fields product, reducing technical debt
 - I know how to make pragmatic choices in order to ship a product.
@@ -67,18 +67,18 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am a confident and proficient teacher of my craft.
 
 #### I am a supporter of the journey.
-- I am a highly sought after team member because I'm a trusted and proactive supporter of my team and its leadership.
+- I am a highly sought-after team member because I'm a trusted and proactive supporter of my team and its leadership.
 - I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
-- I am a "boy scout", I recognise problems early and get in and fix them regardless of who's fault it is.
+- I am a "boy scout". I recognise problems early and get in and fix them regardless of whose fault it is.
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
-- I happily tackle the most difficult problems the team is facing, usually solving it with an impressive balance of finesse and pragmatism.
+- I happily tackle the most difficult problems the team is facing and usually solve them with an impressive balance of finesse and pragmatism.
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
 - I adapt quickly to changing requirements and typically structure my approach to cater for this.
 
 #### I've become a student of my craft.
-- I am devoted to learning, it's become a natural part of my life.
+- I am devoted to learning; it's become a natural part of my life.
 - I am actively introspective and take time to work on my personal and professional development.
-- I happily take responsibility my own mistakes and I learn from the mistakes of others.
+- I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
 
 
@@ -89,7 +89,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I am trusted to lead a small team to ship a full product from idea to production with limited supervision.
 - I am maturing as a leader of people.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
-- I am comfortable diving headfirst into moderately risky environments with relatively little upfront information and oversight.
+- I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
@@ -102,37 +102,37 @@ Each of these sections seeks to describe some **defining characteristics** about
 
 #### I am investing back into Readify.
 - I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
-- I am actively involved in the recruitment process, I get to help choose who I work with!
+- I am actively involved in the recruitment process. I get to help choose who I work with!
 - I leave my clients with a clear sense of why they have invested in Readify.
 - I proactively call out opportunities for Readify with my clients.
-- I am mentoring another developer deliberately helping them to round out their skill set.
+- I am mentoring another developer, deliberately helping them to round out their skill set.
 - I am collaborating with another Senior Consultant so we can learn from each other's experiences.
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
 
 ## Lead Consultant
-> I am trusted to autonomously lead people through high risk engagements with a proven record of delivering projects from inception to their successful completion.
+> I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering projects from inception to their successful completion.
 
 #### I am becoming a respected and trusted leader of people.
 - I generally inspire people, especially those on mine and my client's teams.
 - My influence is starting to reach beyond my team, extending to other teams both inside and outside of Readify.
 - People want to go on the journey with me because they know they'll be richer for the experience.
-- I am developing strong presentation skills learning to effectively tailor my content and conversation to many audiences.
+- I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am developing the skill of effective pursuasion and building a track record of taking people on the journey with me.
 
 #### I am the protagonist of the journey.
-- I am a servant leader prioritising the needs of my team members above my own.
-- I am an outspoken advocate of my team, they can trust me to be the first line of defense.
-- I know the buck stops with me, at the end of the day I am responsible for my team and the relationship with our client.
+- I am a servant-leader prioritising the needs of my team members above my own.
+- I am an outspoken advocate of my team. They can trust me to be the first line of defense.
+- I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
 
 #### I am maturing as a driver for additional business opportunities.
 - I am looking for new opportunities with my current client.
-- I am keeping in touch with previous clients actively looking for new opportunities.
+- I am keeping in touch with previous clients, actively looking for new opportunities.
 
 #### I am significantly investing back into Readify.
 - I am taking ownership of our retrospective process in our state.
 - I am becoming a trusted voice to the Readify Executive and my opinions and ideas seem to carry some weight.
 - I am helping steer the public and private conversations within Readify towards positive and productive outcomes.
-- I represent the interest of the teams in my State to rest of Readify.
+- I represent the interest of the teams in my state to rest of Readify.
 - I am involved in some kind of initiative at the national level in Readify.
 
 
@@ -145,7 +145,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - My influence positively affects teams both inside and outside of Readify.
 - People both inside and outside of Readify aspire to be like me.
 - I inspire people to better themselves by simply being myself and doing what tends to come naturally.
-- Pursuasion has become second nature to me, people tend to abandon their previous way of thinking and embrace mine, and are enriched by doing so.
+- Persuasion has become second nature to me. People tend to abandon their previous way of thinking and embrace mine and are enriched by doing so.
 
 #### I am like a virtual CIO/CTO
 - I am trusted to make strategic technical and business decisions having built a history of positive results.
@@ -153,8 +153,8 @@ Each of these sections seeks to describe some **defining characteristics** about
 
 #### I am the safety net of the journey for both my teams and my clients.
 - People tend to trust me impicitly.
-- I am highly approachable, a trusted confidant for my people and my clients.
-- I am a good sounding board and proactively broaden the perspective of team leads that I'm working with.
+- I am highly approachable; a trusted confidant for my people and my clients.
+- I am a good sounding-board and proactively broaden the perspective of team leads with whom I'm working.
 - I wisely manoeuvre through risky political situations and have everyone leave richer for the experience.
 - I am especially capable of handling situations where we have made mistakes and have our team and our client keep their dignity intact and be satisfied with the outcome.
 
