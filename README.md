@@ -8,7 +8,7 @@
 - I want people to be inspired to grow personally just by reading through this.
 - I want people to feel like this is achievable.
 - I want this to be helpful for personal and team retrospectives.
-- I want this to help when recommending people for promotion and recognition.
+- I want this to help when recommending people for hire, promotion and recognition.
 - I want people to collaborate on this as a living statement, by the people for the people.
 
 ## Readify
