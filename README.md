@@ -25,7 +25,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am learning how to qualify and reduce technical debt.
 - I am learning how to write valuable automated tests.
 - I am becoming proficient with my tools and the core building blocks used by our team.
-- I am learning how to pull together the LEGO blocks of a product.
+- I am learning how to pull together the Lego blocks of a product.
 - I am learning how to stand up a build and delivery pipeline.
 
 #### I am recognised by my desire to learn and my motivation to improve.
