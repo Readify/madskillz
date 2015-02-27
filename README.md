@@ -166,11 +166,11 @@ Each of these sections seeks to describe some **defining characteristics** about
 # Perspective... running out of words quickly
 > Putting myself in, well, my own shoes:
 
-- As a person I’d prefer to get insight from someone’s real-life/coal-face experiences in going on the journey with me.
+- As a person I’d prefer to get insight from someone’s real-life experiences, and from them going on the journey with me.
 - As a person I’d like insight from someone I’ve worked with and can trust to be both candid and fair.
 - As a person I’d like insight that is based in real-life examples rather than guesswork from afar.
 - As a person I’d like suggestions or a coaching plan that lead to me growing as an individual.
-- As a person I’d like to think that my growth/salary/promotion in Readify is in the sole discretion of a single person.
+- As a person I’d like to think that my growth/salary/promotion in Readify is not at the sole discretion of a single person.
 - As a person I’d like my review to be based on several iterations, like an ongoing conversation, that way I feel like there’s been opportunity to grow and measure my growth.
 
 > And again:
