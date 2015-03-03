@@ -1,6 +1,6 @@
 # Readify Mad Skillz
 
-## Purpose
+## Background and Purpose
 - I want to provide a simple breakdown of what I value most about people in Readify in the hope that most of us agree.
 - I want this to read as a either a narrative or as a reference.
 - I want to use language that promotes personal ownership.
@@ -163,9 +163,10 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I conceptualise and drive initiatives at the executive level in Readify and have track record of bringing others along for the journey.
 - I recognise that I'm an overhead and the value I bring to the company is different to most billable consultants, and I recognise the importance of that fact.
 
-# Perspective... running out of words quickly
-> Putting myself in, well, my own shoes:
+# Thoughts about the retrospective process
+> To look back at events that have taken place and incorporate our successes and improvements into our daily work life.
 
+### Some thoughts from my perpective
 - As a person I’d prefer to get insight from someone’s real-life experiences, and from them going on the journey with me.
 - As a person I’d like insight from someone I’ve worked with and can trust to be both candid and fair.
 - As a person I’d like insight that is based in real-life examples rather than guesswork from afar.
@@ -173,8 +174,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - As a person I’d like to think that my growth/salary/promotion in Readify is not at the sole discretion of a single person.
 - As a person I’d like my review to be based on several iterations, like an ongoing conversation, that way I feel like there’s been opportunity to grow and measure my growth.
 
-> And again:
-
+### Some thoughts from my leader's perspective
 - As a leader I’d prefer to provide insights for someone I’ve been working with closely, where I’ve experienced what it’s like going on the journey with them.
 - As a leader I’d like this process to be centred around the person’s growth as an individual.
 - As a leader I’d like (very much) not to be “milked” for information, but have it collected as a natural by-product of leading a person.
