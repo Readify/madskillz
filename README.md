@@ -68,7 +68,6 @@ Each of these sections seeks to describe some **defining characteristics** about
 
 #### I am a supporter of the journey.
 - I am a highly sought-after team member because I'm a trusted and proactive supporter of my team and its leadership.
-- I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
 - I am a "boy scout". I recognise problems early and get in and fix them regardless of whose fault it is.
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle the most difficult problems the team is facing and usually solve them with an impressive balance of finesse and pragmatism.
@@ -92,9 +91,9 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
-- I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
 - I am proficient at delivering software projects using agile practices.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
+- My influence is starting to reach beyond my team, extending to other teams both inside and outside of Readify.
 
 #### I am a proponent of the journey.
 - I invest in sustainable delivery understanding how to strike the balance between velocity and quality.
@@ -114,12 +113,14 @@ Each of these sections seeks to describe some **defining characteristics** about
 
 #### I am becoming a respected and trusted leader of people.
 - I generally inspire people, especially those on mine and my client's teams.
-- My influence is starting to reach beyond my team, extending to other teams both inside and outside of Readify.
+- My influence reaches beyond my team, extending to other teams both inside and outside of Readify.
 - People want to go on the journey with me because they know they'll be richer for the experience.
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am developing the skill of effective pursuasion and building a track record of taking people on the journey with me.
+- I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
 
 #### I am the protagonist of the journey.
+- I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
 - I am a servant-leader prioritising the needs of my team members above my own.
 - I am an outspoken advocate of my team. They can trust me to be the first line of defense.
 - I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
