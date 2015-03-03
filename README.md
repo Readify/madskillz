@@ -165,7 +165,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am confident handling situations where we have made mistakes and working towards outcomes that are acceptable to both the customer and Readify.
 
 #### My investment back into Readify is a significant part of our success.
-- I am a trusted voice within Readify, both at a state levle and nationally.
+- I am a trusted voice within Readify, both at a state level and nationally.
 - I take time to reflect on our identity, our people and our culture as Readify, and the way in which we work and how we deliver our engagements. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
 - I recognise that the value I bring to the company is different to the regular consultanting pool and that the interactions I have with people is critical to our collective success.
 
