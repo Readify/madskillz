@@ -67,6 +67,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 
 #### I am a supporter of the journey.
 - I am a highly sought-after team member because I'm a trusted and proactive supporter of my team and its leadership.
+- I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
 - I am a "boy scout". I recognise problems early and get in and fix them regardless of whose fault it is.
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle the most difficult problems the team is facing and usually solve them with an impressive balance of finesse and pragmatism.
@@ -98,7 +99,8 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I am a proponent of the journey.
 - I invest in sustainable delivery understanding how to strike the balance between velocity and quality.
 - I am typically the first one to take responsibility for reducing waste in our process.
-- I am able to start building out a backlog with a customer and the support of my LC and PC
+- I am comfortable performing business analysis work. I help customers (Product Owners) clarify their product vision and turn it into an ordered product backlog, or other form of requirements, collaborating with them to reach a shared understanding of what should be built, including acceptance criteria.
+
 
 #### I am investing back into Readify.
 - I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
@@ -118,10 +120,9 @@ Each of these sections seeks to describe some **defining characteristics** about
 - People want to go on the journey with me because they know they'll be richer for the experience.
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am developing the skill of effective pursuasion and building a track record of taking people on the journey with me.
-- I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
+- I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality. 
 
 #### I am the protagonist of the journey.
-- I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
 - I am a servant-leader prioritising the needs of my team members above my own.
 - I am an outspoken advocate of my team. They can trust me to be the first line of defense.
 - I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
