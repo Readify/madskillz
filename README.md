@@ -60,7 +60,6 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am technically persuasive.
 
 #### I am a technical mentor.
-- People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
 - I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
 - I am proactively reviewing other people's code so I can understand how best to help the team ship the best!
 - I can tactfully challenge and coach people and have them leave richer for the experience.
@@ -94,10 +93,12 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am proficient at delivering software projects using agile practices.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
 - My influence is starting to reach beyond my team, extending to other teams both inside and outside of Readify.
+- People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
 
 #### I am a proponent of the journey.
 - I invest in sustainable delivery understanding how to strike the balance between velocity and quality.
 - I am typically the first one to take responsibility for reducing waste in our process.
+- I am able to start building out a backlog with a customer and the support of my LC and PC
 
 #### I am investing back into Readify.
 - I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
