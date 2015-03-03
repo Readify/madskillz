@@ -1,4 +1,4 @@
-# Readify Mad Skilz
+# Readify Mad Skillz
 
 ## Purpose
 - I want to provide a simple breakdown of what I value most about people in Readify in the hope that most of us agree.
