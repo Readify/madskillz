@@ -99,6 +99,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I help our team focus on delivering value to our customers.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first one to take responsibility for reducing waste in our process.
+- I am comfortable performing business analysis work. I help customers (Product Owners) clarify their product vision and turn it into an ordered product backlog, or other form of requirements, collaborating with them to reach a shared understanding of what should be built, including acceptance criteria.
 
 #### I am investing back into Readify.
 - I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
@@ -118,6 +119,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - People want to work on engagements with me because they know they'll be richer for the experience and I will help them grow.
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am exhibiting the soft skills needed to lead teams and have a track record of building growth and maturity into the people I work with.
+- I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality. 
 
 #### I am a servant leader for my team.
 - I am prioritising the needs of my team members above my own, knowing that their success is our success.
