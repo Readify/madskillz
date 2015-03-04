@@ -139,29 +139,36 @@ Each of these sections seeks to describe some **defining characteristics** about
 
 
 ## Principal Consultant
-> I epitomise Readify and represent the pinnacle of our capabilities having influence across many teams and interests both inside and outside of Readify.
+> I epitomise and embody Readify and our Discover, Master, Influence mantra. I have a wealth of experience and readily share it with Readify teams and our customers.
 
 #### I am a deeply respected leader of people.
-- My influence positively affects teams both inside and outside of Readify.
-- People both inside and outside of Readify aspire to be like me.
-- I inspire people to better themselves by simply being myself and doing what tends to come naturally.
-- Persuasion has become second nature to me. People tend to abandon their previous way of thinking and embrace mine and are enriched by doing so.
+- My influence and guidance positively affects teams and individuals both inside and outside of Readify.
+- I use my soft skills to bring out the best in both our people and our customers and encourage them to grow.
+- I'm not afraid to have difficult conversations when needed, and do so with tact and care.
+- I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
+- I know when and how to apply different coaching and mentoring techniques, understanding the maturity level of those I'm helping.
+- I am able to provide perspective for those I'm serving by reminding them of the big picture when they get stuck in the details and day to day of solving problems.
 
-#### I am like a virtual CIO/CTO
-- I am trusted to make strategic technical and business decisions having built a history of positive results.
-- I have learned to tailor conversations to any level of business, from training a developer through to C-level executives and business owners.
+#### I know the pressures of being an executive
+- I know how to identify business problems/goals and evaluate the ROI and TCO of potential solutions.
+- I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
+- I understand the bigger picture of how IT Pros, software development and other business departments all interrelate and influence the success of a business.
+- I know how to adjust my communications style based on my audience, from help desk staffer to developer to sales and marketing to C-level executives and business owners.
+- I know the impact of internal politics in organisations and how it can impact decision making processes. I can navigate politicised environments and still bring about positive outcomes for our customers.
+- I know what is required to bring about organisational change, and when enough trust has been established to broach such topics with customers.
 
-#### I am the safety net of the journey for both my teams and my clients.
-- People tend to trust me impicitly.
-- I am highly approachable; a trusted confidant for my people and my clients.
-- I am a good sounding-board and proactively broaden the perspective of team leads with whom I'm working.
-- I wisely manoeuvre through risky political situations and have everyone leave richer for the experience.
-- I am especially capable of handling situations where we have made mistakes and have our team and our client keep their dignity intact and be satisfied with the outcome.
+#### I am a safety net for both my teams and my customers.
+- People value my opinions and ideas. They come to me for advice knowing I will empathise with them and understand their situation before providing options to them.
+- I have a demonstrated preference to help people discover solutions to problems for themselves first, before giving them guidance.
+- I am a good sounding-board and proactively broaden the perspective of teams and individuals with whom I'm working.
+- I know how to identify potential issues and will take action to head them off before they eventuate, wether they be technical, requirements or people based.
+- I am confident handling situations where we have made mistakes and working towards outcomes that are acceptable to both the customer and Readify.
 
 #### My investment back into Readify is a significant part of our success.
-- I am a trusted voice to the Readify Executive.
-- I conceptualise and drive initiatives at the executive level in Readify and have track record of bringing others along for the journey.
-- I recognise that I'm an overhead and the value I bring to the company is different to most billable consultants, and I recognise the importance of that fact.
+- I am a trusted voice within Readify, both at a state level and nationally.
+- I take time to reflect on our identity, our people and our culture as Readify, and the way in which we work and how we deliver our engagements. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
+- I recognise that the value I bring to the company is different to the regular consultanting pool and that the interactions I have with people is critical to our collective success.
+
 
 # Thoughts about the retrospective process
 > To look back at events that have taken place and incorporate our successes and improvements into our daily work life.
