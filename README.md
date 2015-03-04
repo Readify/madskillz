@@ -34,11 +34,11 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I take my PD seriously and realise it is valuable to both myself and to Readify.
 - I reach out to my peers and leadership group to develop my PD plan.
 
-#### I am happy to go on a journey with the team.
+#### I am an egoless, team oriented developer.
 - Other team members genuinely want me on their team.
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
-- Even when I disagree with something I continue work enthusiastically and learn from the journey.
+- Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks and I work happily and diligently through them.
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
@@ -66,7 +66,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I can tactfully challenge and coach people and have them leave richer for the experience.
 - I am a confident and proficient teacher of my craft.
 
-#### I am a supporter of the journey.
+#### I am a supporter of my team and my customer.
 - I am a highly sought-after team member because I'm a trusted and proactive supporter of my team and its leadership.
 - I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
 - I am a "boy scout". I recognise problems early and get in and fix them regardless of whose fault it is.
@@ -96,8 +96,8 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am proficient at delivering software projects using agile practices.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
 
-#### I am a proponent of the journey.
-- I invest in sustainable delivery understanding how to strike the balance between velocity and quality.
+#### I help our team focus on delivering value to our customers.
+- I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first one to take responsibility for reducing waste in our process.
 
 #### I am investing back into Readify.
@@ -115,12 +115,12 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I am becoming a respected and trusted leader of people.
 - I generally inspire people, especially those on mine and my client's teams.
 - My influence is starting to reach beyond my team, extending to other teams both inside and outside of Readify.
-- People want to go on the journey with me because they know they'll be richer for the experience.
+- People want to work on engagements with me because they know they'll be richer for the experience and I will help them grow.
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
-- I am developing the skill of effective pursuasion and building a track record of taking people on the journey with me.
+- I am exhibiting the soft skills needed to lead teams and have a track record of building growth and maturity into the people I work with.
 
-#### I am the protagonist of the journey.
-- I am a servant-leader prioritising the needs of my team members above my own.
+#### I am a servant leader for my team.
+- I am prioritising the needs of my team members above my own, knowing that their success is our success.
 - I am an outspoken advocate of my team. They can trust me to be the first line of defense.
 - I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
 
@@ -174,7 +174,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 > To look back at events that have taken place and incorporate our successes and improvements into our daily work life.
 
 ### Some thoughts from my perpective
-- As a person I’d prefer to get insight from someone’s real-life experiences, and from them going on the journey with me.
+- As a person I’d prefer to get insight from someone’s real-life experiences, and from them mentoring me as I grow.
 - As a person I’d like insight from someone I’ve worked with and can trust to be both candid and fair.
 - As a person I’d like insight that is based in real-life examples rather than guesswork from afar.
 - As a person I’d like suggestions or a coaching plan that lead to me growing as an individual.
@@ -182,7 +182,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - As a person I’d like my review to be based on several iterations, like an ongoing conversation, that way I feel like there’s been opportunity to grow and measure my growth.
 
 ### Some thoughts from my leader's perspective
-- As a leader I’d prefer to provide insights for someone I’ve been working with closely, where I’ve experienced what it’s like going on the journey with them.
+- As a leader I’d prefer to provide insights for someone I’ve been working with closely, where I’ve experienced what it’s like to face the challenges they have, helping them as they develop and mature.
 - As a leader I’d like this process to be centred around the person’s growth as an individual.
 - As a leader I’d like (very much) not to be “milked” for information, but have it collected as a natural by-product of leading a person.
 - As a leader I’d like to think that I’m not *solely* responsible for a person’s growth/salary/promotion in Readify.
