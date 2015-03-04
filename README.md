@@ -181,7 +181,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 
 ## The rationale behind this list
 
-When putting this together, we looked at issues with the existing skills and behabiours matrix and tried to understand what people are really thinking when giving or receiving feedback from other people in Readify.
+When putting this together, we looked at issues with the existing skills and behaviours matrix and tried to understand what people are really thinking when giving or receiving feedback from other people in Readify.
 
 Here's what we came up with
 
