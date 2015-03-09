@@ -86,7 +86,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 ## Senior Consultant
 > I am a well-rounded developer, architect, problem solver and leader of people. I represent the unconventional value Readify brings to the market.
 
-#### I am trusted to lead a small team to ship a full product from idea to production with limited supervision.
+#### I am trusted to lead a small team (of up to 3) to ship a full product from idea to production with limited supervision.
 - I am maturing as a leader of people.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
