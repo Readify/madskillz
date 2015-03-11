@@ -100,6 +100,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first one to take responsibility for reducing waste in our process.
 - I am comfortable performing business analysis work. I help customers (Product Owners) clarify their product vision and turn it into an ordered product backlog, or other form of requirements, collaborating with them to reach a shared understanding of what should be built, including acceptance criteria.
+- I recognise problems with my team, my engagement and/or my customer and proactively engage with relevant Account Managers, People Managers, LC/PCs as needed to prevent or resolve them quickly.
 
 #### I am investing back into Readify.
 - I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
