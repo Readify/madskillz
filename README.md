@@ -69,7 +69,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I am a supporter of my team and my customer.
 - I am a highly sought-after team member because I'm a trusted and proactive supporter of my team and its leadership.
 - I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
-- I am a "boy scout". I recognise problems early and get in and fix them regardless of whose fault it is.
+- I recognise problems early and get in and fix them regardless of whose fault it is.
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle the most difficult problems the team is facing and usually solve them with an impressive balance of finesse and pragmatism.
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
