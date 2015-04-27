@@ -53,3 +53,38 @@
 - Every venture has mundane tasks and I work happily and diligently through them.
 - I go out of my way develop a friendly and professional rapport with my customer and other team members.
 - My contributions to team discussions are net-positive, informative and helpful.
+
+
+
+## Technical Lead
+> I am a well-rounded developer, problem solver and mentor for people. I represent the unconventional value Readify brings to the market.
+
+#### I help our team focus on delivering value to our customers
+- I can confidently step outside my comfort zone and adapt quickly to new team situations.
+- I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
+- I am confident making decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
+- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
+- I am proficient at following agile methodologies.
+- I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
+
+#### I am trusted to on-board and deliver sustained engineering services to our customers with limited supervision.
+- I can on-board new customers into Managed Services.
+- I can confidently talk to customers about Readify services and solutions.
+- I can set-up processes and created a bounded framework within which the customer and other team members can work autonomously.
+- I am comfortable with building a roadmap for the product based on the business needs.
+- I am across the entire application from source control to deployment and understand the business domain.
+- I know how to stand-up and maintain a build and delivery pipeline.
+
+#### I am investing back into Readify.
+- I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
+- I leave my clients with a clear sense of why they have invested in Readify.
+- I proactively call out opportunities for Readify with my clients.
+- I am mentoring other developers, deliberately helping them to round out their skill set.
+- I am collaborating with other Technical Leads and Consultants in the fields so we can learn from each other's experiences.
+ 
+#### I am a technical mentor.
+- People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
+- I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
+- I am proactively reviewing other people's code so I can understand how best to help the team ship the best!
+- I can tactfully challenge and coach people and have them leave richer for the experience.
+- I am a confident and proficient teacher of my craft.
