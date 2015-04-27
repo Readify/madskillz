@@ -88,3 +88,43 @@
 - I am proactively reviewing other people's code so I can understand how best to help the team ship the best!
 - I can tactfully challenge and coach people and have them leave richer for the experience.
 - I am a confident and proficient teacher of my craft.
+
+
+
+## Managed Services Team Lead
+> I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering sustained engineering services and on-going support to our customers.
+
+#### I help our team focus on delivering value to our customers.
+- I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
+- I am typically the first one to take responsibility for reducing waste in our process.
+- I am comfortable performing business analysis work. I help customers (Product Owners) clarify their product vision and turn it into an ordered product backlog, or other form of requirements, collaborating with them to reach a shared understanding of what should be built, including acceptance criteria.
+- I recognise problems with my team, my engagement and/or my customer and proactively engage with relevant Account Managers, People Managers, LC/PCs as needed to prevent or resolve them quickly.
+
+#### I am a respected and trusted leader of people.
+- I have strong presentation skills, learning to effectively tailor my content and conversation to many customers.
+- I exhibit the soft skills needed to lead teams and have a track record of building growth and maturity into the people I work with.
+- I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality. 
+- I'm not afraid to have difficult conversations when needed, and do so with tact and care.
+- I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
+- I know when and how to apply different coaching and mentoring techniques, understanding the maturity level of those I'm helping.
+- I am able to provide perspective for those I'm serving by reminding them of the big picture when they get stuck in the details and day to day of solving problems.
+
+#### I am a servant leader for my team.
+- I am prioritising the needs of my team members above my own, knowing that their success is our success.
+- I am an outspoken advocate of my team. They can trust me to be the first line of defense.
+- I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
+- I actively track the progress of our team using agile project management techniques, keeping the goals of the project and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
+
+#### I am significantly investing back into Readify.
+- I am taking ownership of our retrospective process in our state.
+- I am becoming a trusted voice to the Readify Executive and my opinions and ideas seem to carry some weight.
+- I am helping steer the public and private conversations within Readify towards positive and productive outcomes.
+- I represent the interest of the teams to rest of Readify.
+- I am involved in some kind of initiative at the national level in Readify. 
+
+#### I am a safety net for both my teams and my customers.
+- People value my opinions and ideas. They come to me for advice knowing I will empathise with them and understand their situation before providing options to them.
+- I have a demonstrated preference to help people discover solutions to problems for themselves first, before giving them guidance.
+- I am a good sounding-board and proactively broaden the perspective of teams and individuals with whom I'm working.
+- I know how to identify potential issues and will take action to head them off before they eventuate, wether they be technical, requirements or people based.
+- I am confident handling situations where we have made mistakes and working towards outcomes that are acceptable to both the customer and Readify.
