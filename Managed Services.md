@@ -59,7 +59,7 @@
 ## Technical Lead
 > I am a well-rounded developer, problem solver and mentor for people. I represent the unconventional value Readify brings to the market.
 
-#### I help our team focus on delivering value to our customers
+#### I focus on delivering value to our customers
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
 - I am confident making decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
