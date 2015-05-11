@@ -54,7 +54,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am proficient at qualifying and reducing technical debt.
 - I am comfortable pulling together the Lego blocks of a full product.
 - I am comfortable standing up an automated integration and delivery pipeline.
-- I am comfortable setting technical direction for brown-fields product, reducing technical debt
+- I am comfortable determining technical direction within brown-fields projects.
 - I know how to make pragmatic choices in order to ship a product.
 - I know when to call out for help and how to do it effectively.
 - I am technically persuasive.
@@ -62,18 +62,19 @@ Each of these sections seeks to describe some **defining characteristics** about
 #### I am a technical mentor.
 - People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
 - I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
-- I am proactively reviewing other people's code so I can understand how best to help the team ship the best!
+- I use code reviews as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
 - I can tactfully challenge and coach people and have them leave richer for the experience.
 - I am a confident and proficient teacher of my craft.
 
 #### I am a supporter of my team and my customer.
-- I am a highly sought-after team member because I'm a trusted and proactive supporter of my team and its leadership.
+- I add value to my team by being a trusted, proactive supporter of my team and its leadership, and by delivering high quality work with a minimum of fuss.
 - I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
 - I recognise problems early and get in and fix them regardless of whose fault it is.
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle the most difficult problems the team is facing and usually solve them with an impressive balance of finesse and pragmatism.
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
 - I adapt quickly to changing requirements and typically structure my approach to cater for this.
+- I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
 
 #### I've become a student of my craft.
 - I am devoted to learning; it's become a natural part of my life.
@@ -107,7 +108,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I leave my clients with a clear sense of why they have invested in Readify.
 - I proactively call out opportunities for Readify with my clients.
 - I am mentoring another developer, deliberately helping them to round out their skill set.
-- I am collaborating with another Senior Consultant so we can learn from each other's experiences.
+- I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
 
 ## Lead Consultant
