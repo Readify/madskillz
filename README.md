@@ -58,7 +58,7 @@ Each of these sections seeks to describe some **defining characteristics** about
 - I am comfortable pulling together the Lego blocks of a full product.
 - I am comfortable standing up an automated integration and delivery pipeline.
 - I am comfortable determining technical direction within brown-fields projects.
-- I know how to make pragmatic choices in order to ship a product.
+- I know how to make pragmatic decisions in order to ship a product.
 - I know when to call out for help and how to do it effectively.
 - I am technically persuasive.
 
