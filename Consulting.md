@@ -68,6 +68,9 @@
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
 
+## Engineering Branch
+
+At this point, some people may choose to take the [engineering branch](Engineering.md).
 
 
 ## Senior Consultant
