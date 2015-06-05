@@ -1,6 +1,15 @@
 # Readify Mad Skillz
 
+This repo describes each of the technical roles at Readify.
+
+It seeks to describe some **defining characteristics** about each role, and provide some concrete **examples** along the way.
+
+It's the anchor point used through all of our feedback and promotion​ cycles.
+
+It's a living document, maintained by the very people it affects.
+
 ## Background and Purpose
+
 - I want to provide a simple breakdown of what I value most about people in Readify in the hope that most of us agree.
 - I want this to read as a either a narrative or as a reference.
 - I want to use language that promotes personal ownership.
@@ -15,11 +24,17 @@
 
 > We are: Enthusiasm/passion, people-first, Ship It!, Leadership, Reinvest
 
-Each of these sections seeks to describe some **defining characteristics** about each role and provide some concrete **examples** along the way.
-
 [Consulting Roles](Consulting.md)
 
 [Managed Services Roles](Managed Services.md)
+
+## Contributions
+
+Readifarians should raise issues and pull requests.
+
+Pull requests will be accepted by a peer, once it has reached reasonable consenus.
+
+Not-yet-Readifarians are welcome to contribute ideas, however we'd encourage you to look at https://join.readify.net.
 
 
 # Thoughts about the retrospective process
