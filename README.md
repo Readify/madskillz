@@ -44,6 +44,7 @@ Not-yet-Readifarians are welcome to contribute ideas, however we'd encourage you
 ## Thoughts about rating
 - Consider rating ourselves at the **defining characteristics** level so it's not too hard to maintain over time
 - The examples could be used as a frame of reference for the rating
+- If levelling up is on your mind, rate yourself for both your current role and your future role(s). A little crystal ball gazing will let you get started progressing toward your next goal, and help you set your long-term course.
 - Change the terms...
   - No brainer: _You're great at this! We don't even need to talk about it._
   - Maturing: _Here's some suggestions, take them or leave them - it's your call._
