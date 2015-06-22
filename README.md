@@ -44,6 +44,8 @@ Not-yet-Readifarians are welcome to contribute ideas, however we'd encourage you
 ## Thoughts about rating
 - Consider rating ourselves at the **defining characteristics** level so it's not too hard to maintain over time
 - The examples could be used as a frame of reference for the rating
+- If you're aiming for a promotion, rate yourself on both your current role and your desired role. Looking at the desired role will provide clarity about gaps you might need to fill or grow into.
+  - Consider discussing this before rating with a peer or mentor, so that they can provide feedback on your goals.
 - Change the terms...
   - No brainer: _You're great at this! We don't even need to talk about it._
   - Maturing: _Here's some suggestions, take them or leave them - it's your call._
