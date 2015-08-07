@@ -38,13 +38,6 @@ I am able to assess and identify risks in proposed delivery models, illustrate h
 
 I communicate risk effectively to internal and customer stakeholders 
 
-###I am part of Readify's culture, and contribute back to the organisation to enable our continued success
-
-I take time to reflect on our identity, our people and our culture as Readify, and the way in which we work and how we deliver our engagements. 
-
-I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
-
-
 ###I am a driver for additional business opportunities.
 
 I am always looking for new opportunities with my current projects.
@@ -52,3 +45,12 @@ I am always looking for new opportunities with my current projects.
 I am keeping in touch with previous clients, actively looking for new opportunities.
 
 I can qualify, and manage the changes needed to execute additional opportunity within existing projects
+
+###I am part of Readify's culture, and contribute back to the organisation to enable our continued success
+
+I take time to reflect on our identity, our people and our culture as Readify, and the way in which we work and how we deliver our engagements. 
+
+I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
+
+
+
