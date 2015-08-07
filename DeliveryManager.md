@@ -16,7 +16,7 @@ I am a good sounding-board and proactively broaden the perspective of teams and 
 
 I actively establish communications based on an agreed cadence, and continue them through to the closure of delivery.
 
-I'm not afraid to have difficult conversations when needed, and do so with tact and care.
+I'm able to have difficult conversations in a timely fashion, and do so professionally with tact and care.
 
 ###I am able to balance Readify's commercial needs with return on investment needs of our customers
 
