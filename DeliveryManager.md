@@ -38,7 +38,7 @@ I am able to assess and identify risks in proposed delivery models, illustrate h
 
 I communicate risk effectively to internal and customer stakeholders 
 
-###My investment back into Readify is a significant part of our success.
+###I am part of Readify's culture, and contribute back to the organisation to enable our continued success
 
 I take time to reflect on our identity, our people and our culture as Readify, and the way in which we work and how we deliver our engagements. 
 
