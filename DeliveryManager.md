@@ -18,6 +18,8 @@ I actively establish communications based on an agreed cadence, and continue the
 
 I'm able to have difficult conversations in a timely fashion, and do so professionally with tact and care.
 
+I am able to hold people accountable for our agreed outcomes
+
 ###I am able to balance Readify's commercial needs with return on investment needs of our customers
 
 I am confident handling situations where we have made mistakes and working towards outcomes that are acceptable to both the customer and Readify.
