@@ -36,6 +36,7 @@ I know how to identify potential issues and will take action to head them off be
 
 I am able to assess and identify risks in proposed delivery models, illustrate how these might impact our delivery if realised and collaborate to build appropriate mitigations.
 
+I communicate risk effectively to internal and customer stakeholders 
 
 ###My investment back into Readify is a significant part of our success.
 
