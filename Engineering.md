@@ -7,12 +7,6 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 ## Senior Engineer
 > I am a consultant with a specific technical speciality, an architect, and a communicator and a problem solver. I am the go-to person in my technology area and am known outside of Readify for it. I represent the technical brilliance that Readify brings to the market.
 
-#### I am known for my deep knowledge in my area(s) of specialisation  
-- I have extensive community engagement via my specialisation area. This may include speaking at conferences and user groups, writing books or blog posts, answering StackOverflow or forum questions, being an MVP or more.
-- I contribute to open source projects related to my specialisation and/or I am a greatly desired team member for Readify projects that require skillz in my area of specialisation.
-- Customers seek out Readify because of my reputation.
-- Internally, my Readify colleagues regard me as an expert in my area of specialisation and ask for my advice.
-
 #### I am broader than my specialisation and more than a Senior Developer
 - I have a wide understanding of software development technology and practices, backed by extensive practical experience.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, performance, concurrency and maintainability into consideration.
