@@ -39,3 +39,4 @@
 
 - I take time to reflect on our identity, our people and our culture as Readify, and the way in which we work and how we deliver our engagements. 
 - I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
+- I am actively building my brand as a delivery manager within Readify and our customers 
