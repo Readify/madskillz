@@ -10,6 +10,7 @@
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning how to pull together the Lego blocks of a product.
 - I am learning how to stand up a build and delivery pipeline.
+- I am writing the correct code - code that meets my client's needs
 
 #### I am recognised by my desire to learn and my motivation to improve.
 - I am learning, maybe through a variety of ways like reading books, reading code, trying ideas and shipping them.
