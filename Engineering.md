@@ -25,5 +25,5 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 - I am constantly looking for opportunities and ways to impart my knowledge to others.
 - I may be a highly regarded engineer but I don't know everything, even when my ego wants to pretend I do. I am comfortable showing that I still need to learn and will visibly collaborate, seek help, get advice, and undertake mentoring as needed.
 - I am an information sponge, always staying abreast of advances in software development ecosystem.
-- I know that my knowledge will soon be obsolete so I'm actively investing in at least one other area or technology into which I can grow and specialise.
+- I know that my knowledge will soon be obsolete so I'm actively investing in other areas or technologies into which I can grow.
 - I am proficient at delivering software products using agile practices.
