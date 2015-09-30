@@ -7,6 +7,10 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 ## Senior Engineer
 > I am a consultant, an architect, and a communicator and a problem solver. I am the go-to person in the general technology area. I represent the technical brilliance that Readify brings to the market.
 
+#### I am adaptable
+- I realise that there are many tools that can solve a given problem and each have their own pros and cons.
+- I can adapt to a given situation and can learn and implement new technologies with very short notice.
+
 #### I am more than a Senior Developer
 - I have a wide understanding of software development technology and practices, backed by extensive practical experience.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, performance, concurrency and maintainability into consideration.
