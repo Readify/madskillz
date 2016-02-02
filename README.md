@@ -54,6 +54,7 @@ Not-yet-Readifarians are welcome to contribute ideas, however we'd encourage you
     - It would make sense to record the coaching plan.
 - Call special attention to clearly outstanding/exemplary behaviour.
   - Outstanding: _You simply shine in this area like very few others. I think people deserve to know this about you._
+    - This is more than just saying "I'm really, really good at this". It's saying that you're right up there with the best few across all of Readify at this.
 
 ## The rationale behind this list
 
