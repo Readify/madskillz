@@ -75,7 +75,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 
 
 ## Senior Consultant
-> I am a well-rounded developer, architect, problem solver and leader of people. I represent the unconventional value Readify brings to the market.
+> I am a well-rounded developer, architect, problem solver and leader of people. I break the mould of mediocre body-shop consulting and highlight the unique value Readify brings to the market.
 
 #### I am trusted to lead a small team (of up to 3) to ship a full product from idea to production with limited supervision.
 - I am maturing as a leader of people.
