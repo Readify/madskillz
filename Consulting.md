@@ -28,9 +28,8 @@
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks and I work happily and diligently through them.
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
+- I use written communication to clearly and concisely convey my message, both day-to-day (eg leave/feedback/escalation) and specialised (eg technical emails to the team/customer) 
 - My contributions to team discussions are net-positive, informative and helpful.
-
-
 
 ## Senior Developer
 > I am a highly sought-after member of a Readify team with a proven record of shipping high-quality code to production.
@@ -62,6 +61,7 @@
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
 - I adapt quickly to changing requirements and typically structure my approach to cater for this.
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
+- I write clearly and persuasively in order to concisely convey arguments, explain pros and cons of various approaches/situations, and respond to team members in a constructive way. 
 
 #### I've become a student of my craft.
 - I am devoted to learning; it's become a natural part of my life.
@@ -86,6 +86,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
 - I am proficient at delivering software projects using agile practices.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
+- I am an adept communicator, selecting  appropriate media with ease, and effectively using tone/structure to drive conversations to a desired outcome. I use these skills to provide feedback, enhance my team leadership, and support the sales team where necessary. 
 
 #### I help our team focus on delivering value to our customers.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
@@ -111,6 +112,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am exhibiting the soft skills needed to lead teams and have a track record of building growth and maturity into the people I work with.
 - I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality. 
+- I am an exemplary communicator. I am known for my ability to communicate effectively across all media, and have a proven record of writing well-structured, effective and persuasive text. People come to me for coaching and advice on their writing. 
 
 #### I am a servant leader for my team.
 - I am prioritising the needs of my team members above my own, knowing that their success is our success.
