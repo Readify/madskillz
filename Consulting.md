@@ -60,7 +60,7 @@
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
 - I adapt quickly to changing requirements and typically structure my approach to cater for this.
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- I possess writing skills that let me be clear, articulate and and persuasive in all of my outgoing communications.
+- I possess writing skills that let me be clear, concise, articulate and persuasive in all of my outgoing communications.
 
 #### I've become a student of my craft.
 - I am devoted to learning; it's become a natural part of my life.
@@ -85,7 +85,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
 - I am proficient at delivering software projects using agile practices.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
-- I am an adept communicator, and can effectively steer conversations to positive outcomes over any medium.
+- I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
 #### I help our team focus on delivering value to our customers.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
