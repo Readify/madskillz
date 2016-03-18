@@ -63,18 +63,19 @@
 
 #### I focus on delivering value to our customers
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
-- I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
-- I am confident making decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
-- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
+- I am confident diving head-first into moderately risky environments with relatively little upfront information and oversight.
+- I am confident making architectural decisions around infrastructure, identity, security, scalability and maintainability.
+- I am confident with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I am proficient at following agile methodologies.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
 
 #### I am trusted to on-board and deliver sustained engineering services to our customers with limited supervision.
 - I can on-board new customers into Managed Services.
 - I can confidently talk to customers about Readify services and solutions.
-- I can set-up processes and created a bounded framework within which the customer and other team members can work autonomously.
-- I am comfortable with building a roadmap for the product based on the business needs.
-- I am across the entire application from source control to deployment and understand the business domain.
+- I establish processes and frameworks for managing customer's expectations allowing for other team members to work autonomously.
+- I am comfortable with building a roadmap for the product based on the customer's needs.
+- I understand the business domain for my customer and their systems.
+- I understand all technical applications for my customers systems, from source control to build and release.
 - I know how to stand-up and maintain a build and delivery pipeline.
 
 #### I am investing back into Readify.
