@@ -30,8 +30,6 @@
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
-
-
 ## Senior Developer
 > I am a highly sought-after member of a Readify team with a proven record of shipping high-quality code to production.
 
@@ -62,6 +60,7 @@
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
 - I adapt quickly to changing requirements and typically structure my approach to cater for this.
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
+- I possess writing skills that let me be clear, concise, articulate and persuasive in all of my outgoing communications.
 
 #### I've become a student of my craft.
 - I am devoted to learning; it's become a natural part of my life.
@@ -86,6 +85,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
 - I am proficient at delivering software projects using agile practices.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
+- I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
 #### I help our team focus on delivering value to our customers.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
@@ -111,6 +111,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am exhibiting the soft skills needed to lead teams and have a track record of building growth and maturity into the people I work with.
 - I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality. 
+- I am an exemplary communicator, and have a proven track record of deriving the right outcomes from difficult conversations over all mediums. People seek my input to validate and improve their own communications. 
 
 #### I am a servant leader for my team.
 - I am prioritising the needs of my team members above my own, knowing that their success is our success.
@@ -128,9 +129,6 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am helping steer the public and private conversations within Readify towards positive and productive outcomes.
 - I represent the interest of the teams in my state to rest of Readify.
 - I am involved in some kind of initiative at the national level in Readify.
-
-
-
 
 ## Principal Consultant
 > I epitomise and embody Readify and our Discover, Master, Influence mantra. I have a wealth of experience and readily share it with Readify teams and our customers.
