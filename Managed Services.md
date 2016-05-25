@@ -73,9 +73,8 @@
 - I can on-board new customers into Managed Services.
 - I can confidently talk to customers about Readify services and solutions.
 - I establish processes and frameworks for managing customer's expectations allowing for other team members to work autonomously.
-- I am comfortable with building a roadmap for the product based on the customer's needs.
+- I am comfortable with building a roadmap for customer's environment to meet their needs.
 - I understand the business domain for my customer and their systems.
-- I understand all technical applications for my customers systems, from source control to build and release.
 - I know how to stand-up and maintain a build and delivery pipeline.
 
 #### I am investing back into Readify.
@@ -91,8 +90,6 @@
 - I am proactively reviewing other people's code so I can understand how best to help the team ship the best!
 - I can tactfully challenge and coach people and have them leave richer for the experience.
 - I am a confident and proficient teacher of my craft.
-
-
 
 ## Managed Services Team Lead
 > I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering sustained engineering services and on-going support to our customers.
