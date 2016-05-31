@@ -144,8 +144,8 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 #### I know the pressures of being an executive
 - I know how to identify business problems/goals and evaluate the ROI and TCO of potential solutions.
 - I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
-- I understand the bigger picture of how IT Pros, software development and other business departments all interrelate and influence the success of a business.
-- I know how to adjust my communications style based on my audience, from help desk staffer to developer to sales and marketing to C-level executives and business owners.
+- I understand the bigger picture of how IT Pros, software development, security and other business departments all interrelate and influence the success of a business.
+- I know how to adjust my communications style based on my audience, from service desk to developer to engineer to sales and marketing to C-level executives and business owners.
 - I know the impact of internal politics in organisations and how it can impact decision making processes. I can navigate politicised environments and still bring about positive outcomes for our customers.
 - I know what is required to bring about organisational change, and when enough trust has been established to broach such topics with customers.
 
