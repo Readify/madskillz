@@ -56,7 +56,7 @@
 - I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
 - I recognise problems early and get in and fix them regardless of whose fault it is.
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
-- I happily tackle all of the problems regardless of difficulty, and I support my team in solving them in a pragmatic way.
+- I happily tackle all of the problems regardless of difficulty, and I support my team by solving them in a pragmatic way.
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
 - I adapt quickly to changing requirements and typically structure my approach to cater for this.
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
