@@ -45,14 +45,13 @@
 - I recognise problems early and get in and fix them regardless of whose fault it is.
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle the most difficult problems the team is facing and usually solve them with an impressive balance of finesse and pragmatism.
-- Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
+- Every venture has mundane tasks but I can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
 - I adapt quickly to changing requirements and typically structure my approach to cater for this.
 
 #### I've become a student of my craft.
 - I am devoted to learning; it's become a natural part of my life.
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
-- Every venture has mundane tasks and I work happily and diligently through them.
 - I go out of my way develop a friendly and professional rapport with my customer and other team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
