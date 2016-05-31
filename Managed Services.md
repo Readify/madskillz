@@ -9,13 +9,14 @@
 - I am learning how to write valuable automated tests.
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning how to pull together the Lego blocks of a product when developing feature enhancements to software products.
+- I am rigorous and disciplined when deploying to production, and always adhere to appropriate change governance and process
 
 #### I am recognised by my desire to learn and my motivation to improve.
 - I am learning, maybe through a variety of ways like reading books, reading code, online trainings, doing certifications, attending conferences and user group meetings.
 - I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
 - I take my PD seriously and realise it is valuable to both myself and to Readify.
 - I reach out to my peers and leadership group to develop my PD plan.
-- I am a self-managing team member who is continuously learning and embracing agile methodologies.
+- I am a self-managing team member who is continuously learning and embracing agile and change management methodologies.
 
 #### I am an egoless, team oriented developer.
 - Other team members genuinely want me on their team.
@@ -65,7 +66,7 @@
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
 - I am confident making decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
-- I am proficient at following agile methodologies.
+- I am proficient at following agile and change management methodologies.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
 
 #### I am trusted to on-board and deliver sustained engineering services to our customers with limited supervision.
@@ -114,7 +115,7 @@
 - I am prioritising the needs of my team members above my own, knowing that their success is our success.
 - I am an outspoken advocate of my team. They can trust me to be the first line of defense.
 - I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
-- I actively track the progress of our team using agile project management techniques, keeping the goals of the project and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
+- I actively track the progress of our team using agile project management techniques and against change control processes, keeping the goals of the project and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
 
 #### I am significantly investing back into Readify.
 - I am taking ownership of our retrospective process in our state.
