@@ -97,7 +97,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
 - I leave my clients with a clear sense of why they have invested in Readify.
 - I proactively call out opportunities for Readify with my clients.
-- I am mentoring another developer, deliberately helping them to round out their skill set.
+- I am mentoring another Readifarian, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
 
