@@ -9,7 +9,7 @@
 - I am learning how to write valuable automated tests.
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning how to pull together the Lego blocks of a product when developing feature enhancements to software products.
-- I do not deploy production changes without the appropriate aprovals.
+- I am rigorous and disciplined when deploying to production, and always adhere to appropriate change governance and process
 
 #### I am recognised by my desire to learn and my motivation to improve.
 - I am learning, maybe through a variety of ways like reading books, reading code, online trainings, doing certifications, attending conferences and user group meetings.
