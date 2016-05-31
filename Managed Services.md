@@ -72,7 +72,7 @@
 #### I am trusted to on-board and deliver sustained engineering services to our customers with limited supervision.
 - I can on-board new customers into Managed Services.
 - I can confidently talk to customers about Readify services and solutions.
-- I establish processes and frameworks for managing customer's expectations allowing for other team members to work autonomously.
+- I establish processes and leverage frameworks that promote visibility and accountability, while enabling effective expectation management and autonomous operation.
 - I am comfortable with building a roadmap for customer's environment to meet their needs.
 - I understand the business domain for my customer and their systems.
 - I know how to stand-up and maintain a build and delivery pipeline.
