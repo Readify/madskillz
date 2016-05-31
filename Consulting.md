@@ -115,7 +115,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 
 #### I am a servant leader for my team.
 - I am prioritising the needs of my team members above my own, knowing that their success is our success.
-- I am an outspoken advocate of my team. They can trust me to be the first line of defense.
+- I am an outspoken advocate of my team. They can trust me to be the first line of defence.
 - I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
 - I actively track the progress of our team using agile project management techniques, keeping the goals of the project and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
 
