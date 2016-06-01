@@ -4,7 +4,7 @@ This repo describes each of the technical roles at Readify.
 
 It seeks to describe some **defining characteristics** about each role, and provide some concrete **examples** along the way.
 
-It's the anchor point used through all of our feedback and promotion​ cycles.
+It's the anchor point used through all of our feedback and promotion cycles.
 
 It's a living document, maintained by the very people it affects.
 
@@ -32,7 +32,7 @@ It's a living document, maintained by the very people it affects.
 
 Readifarians should raise issues and pull requests.
 
-Pull requests will be accepted by a peer, once it has reached reasonable consenus.
+Pull requests will be accepted by a peer, once it has reached reasonable consensus.
 
 Not-yet-Readifarians are welcome to contribute ideas, however we'd encourage you to look at https://join.readify.net.
 
@@ -70,7 +70,7 @@ Here's what we came up with
 - I’d like to think that my growth/salary/promotion in Readify is not at the sole discretion of a single person.
 - I want my review to be based over time, like an ongoing conversation, that way I feel like there’s been opportunity to grow and to show and measure my growth and I don't get judged only using their recent memory.
 - I want to know the review process is fair and open and that favouritism doesn't come into it.
-- I want the review process to work fairly regardless of wether I'm on a solo gig or a team gig.
+- I want the review process to work fairly regardless of whether I'm on a solo gig or a team gig.
 
 ### Things the feedback provider might think
 - As a leader I’d prefer to provide insights for someone I’ve been working with closely, where I’ve experienced what it’s like to face the challenges they have, helping them as they develop and mature.
