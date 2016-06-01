@@ -13,7 +13,7 @@
 - I am writing the correct code - code that meets my client's needs
 
 #### I am recognised by my desire to learn and my motivation to improve.
-- I am learning, maybe through a variety of ways like reading books, reading code, trying ideas and shipping them.
+- I am learning, maybe through a variety of ways like reading books, reading code, trying and shipping ideas, undertaking certifications, watching online courses, attending conferences or user group meetings.
 - I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
 - I take my PD seriously and realise it is valuable to both myself and to Readify.
 - I reach out to my peers and leadership group to develop my PD plan.
