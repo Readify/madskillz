@@ -153,10 +153,10 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - People value my opinions and ideas. They come to me for advice knowing I will empathise with them and understand their situation before providing options to them.
 - I have a demonstrated preference to help people discover solutions to problems for themselves first, before giving them guidance.
 - I am a good sounding-board and proactively broaden the perspective of teams and individuals with whom I'm working.
-- I know how to identify potential issues and will take action to head them off before they eventuate, wether they be technical, requirements or people based.
+- I know how to identify potential issues and will take action to head them off before they eventuate, whether they be technical, requirements or people based.
 - I am confident handling situations where we have made mistakes and working towards outcomes that are acceptable to both the customer and Readify.
 
 #### My investment back into Readify is a significant part of our success.
 - I am a trusted voice within Readify, both at a state level and nationally.
 - I take time to reflect on our identity, our people and our culture as Readify, and the way in which we work and how we deliver our engagements. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
-- I recognise that the value I bring to the company is different to the regular consultanting pool and that the interactions I have with people is critical to our collective success.
+- I recognise that the value I bring to the company is different to the regular consulting pool and that the interactions I have with people is critical to our collective success.
