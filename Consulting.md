@@ -58,7 +58,7 @@
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle the most difficult problems the team is facing and usually solve them with an impressive balance of finesse and pragmatism.
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
-- I confidently and constructively challenge changing requirements and support my customer in structuring technical approach that helps to adapt
+- I confidently and constructively challenge changing requirements and support my customer in structuring a technical approach
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
 - I possess writing skills that let me be clear, concise, articulate and persuasive in all of my outgoing communications.
 
