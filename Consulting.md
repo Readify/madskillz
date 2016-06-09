@@ -58,7 +58,7 @@
 - I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment and our processes.
 - I happily tackle all problems regardless of difficulty, and I support my team by solving them in a pragmatic way.
 - Every venture has mundane tasks but I'm the one that can be trusted to get them done, and get them done right - usually with a handful of ingenuity.
-- I adapt quickly to changing requirements and typically structure my approach to cater for this.
+- I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
 - I possess writing skills that let me be clear, concise, articulate and persuasive in all of my outgoing communications.
 
