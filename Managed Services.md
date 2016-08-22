@@ -56,25 +56,42 @@
 - My contributions to team discussions are net-positive, informative and helpful.
 
 
-
 ## Technical Lead
-> I am a well-rounded developer, problem solver and mentor for people. I represent the unconventional value Readify brings to the market.
-
-#### I focus on delivering value to our customers
-- I can confidently step outside my comfort zone and adapt quickly to new team situations.
-- I am confident diving head-first into moderately risky environments with relatively little upfront information and oversight.
-- I am confident making architectural decisions around infrastructure, identity, security, scalability and maintainability.
-- I am confident with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
-- I am proficient at following agile methodologies.
-- I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
+> I am a well-rounded developer, architect, problem solver and leader of people.
+I represent the value Readify brings to the market.
 
 #### I am trusted to on-board and deliver sustained engineering services to our customers with limited supervision.
 - I can on-board new customers into Managed Services.
 - I can confidently talk to customers about Readify services and solutions.
 - I establish processes and leverage frameworks that promote visibility and accountability, while enabling effective expectation management and autonomous operation.
 - I am comfortable with building a roadmap for customer's environment to meet their needs.
-- I understand the business domain for my customer and their systems.
-- I know how to stand-up and maintain a build and delivery pipeline.
+- I understand the business and architectural domain for my customer and their systems.
+- I know how to setup and maintain a build and delivery pipeline.
+- I can handle high-risk production outages, changes and relevant communications
+
+#### I am a technical mentor.
+- ~~People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.~~
+- ~~I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.~~
+- I can tactfully challenge and coach people ~~and have them leave richer for the experience~~.
+- I am a confident and proficient teacher of my craft.
+
+#### I am trusted to lead a small team (of up to 3) to deliver quality work with limited supervision.
+- I am maturing as a leader of people.
+- I can confidently step outside my comfort zone and adapt quickly to new team situations.
+- I am confident diving head-first into moderately risky environments with relatively little upfront information and oversight.
+- I am confident making architectural decisions around infrastructure, identity, security, scalability and maintainability.
+- I am confident with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
+- I am comfortable with building a product vision(roadmap) with a customer based on their business needs, regardless of whether this involves technology or otherwise.
+- ~~I am proficient at following agile methodologies.~~
+- I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
+- I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
+
+#### I help our team focus on delivering value to our customers.
+- I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
+- ~~I am typically the first one to take responsibility for reducing waste in our process.~~
+- I am comfortable performing business analysis work. I help customers (Product Owners) clarify their product vision and turn it into an ordered product backlog, or other form of requirements, collaborating with them to reach a shared understanding of what should be built, including acceptance criteria.
+- ~~I recognise problems with my team, my engagement and/or my customer and proactively engage with relevant Account Managers, People Managers, LC/PCs as needed to prevent or resolve them quickly.~~
+- I am proactively reviewing other people's code so I can understand how best to help the team ship the best!
 
 #### I am investing back into Readify.
 - I am actively involved in the retrospective process and am comfortable challenging and coaching my team.
@@ -82,13 +99,7 @@
 - I proactively call out opportunities for Readify with my clients.
 - I am mentoring other developers, deliberately helping them to round out their skill set.
 - I am collaborating with other Technical Leads and Consultants in the fields so we can learn from each other's experiences.
- 
-#### I am a technical mentor.
-- People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
-- I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
-- I am proactively reviewing other people's code so I can understand how best to help the team ship the best!
-- I can tactfully challenge and coach people and have them leave richer for the experience.
-- I am a confident and proficient teacher of my craft.
+- ~~I am known as someone who looks for opportunities to invest into the Readify teams in my state.~~
 
 ## Managed Services Team Lead
 > I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering sustained engineering services and on-going support to our customers.
