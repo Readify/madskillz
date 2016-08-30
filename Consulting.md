@@ -121,7 +121,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 
 #### I am maturing as a driver for additional business opportunities.
 - I am looking for new opportunities with my current client.
-- I am keeping in touch with previous clients, actively looking for new opportunities.
+- With my proven record of success, previous clients are keen to work with Readify again. 
 
 #### I am significantly investing back into Readify.
 - I am taking ownership of our retrospective process in our state.
