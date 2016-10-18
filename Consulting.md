@@ -111,7 +111,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am exhibiting the soft skills needed to lead teams and have a track record of building growth and maturity into the people I work with.
 - I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality.
-- I am comfortable with coaching my team and a customer on how to measure business value of intitatives I help to deliver, in particular how to develop and test a hypothesis, how to perform A/B testing and how to communicate results to stakeholders in an objective and transparent way.
+- I am comfortable with coaching my team and a customer on how to measure business value of intitatives I help to deliver, in particular how to develop and test a hypothesis, how to design and execute a hypothesis testing and communicate results to stakeholders in an objective and transparent way.
 - I am an exemplary communicator, and have a proven track record of deriving the right outcomes from difficult conversations over all mediums. People seek my input to validate and improve their own communications. 
 
 #### I am a servant leader for my team.
