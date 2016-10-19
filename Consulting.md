@@ -110,7 +110,8 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - People want to work on engagements with me because they know they'll be richer for the experience and I will help them grow.
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am exhibiting the soft skills needed to lead teams and have a track record of building growth and maturity into the people I work with.
-- I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality. 
+- I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality.
+- I am comfortable with helping my customer inspect and measure the impact and value of their software initiatives and communicate results in an objective and transparent way.
 - I am an exemplary communicator, and have a proven track record of deriving the right outcomes from difficult conversations over all mediums. People seek my input to validate and improve their own communications. 
 
 #### I am a servant leader for my team.
