@@ -13,7 +13,12 @@
 - I like to seek clarification on new technologies that I am learning.
 
 #### I show great enthusiasm and initiatives.
-- I understand the importance of PD and recognise the importance it plays in my progress.
+- I understand the importance of PD and recognise the value it plays in my progress.
+- I am learning the concepts of agile development and will thrive to apply within the project I am allocated to.
+- I am self-directed in my learning of technologies that interest me.
+- I am team player who adheres to the team's conventions and processes.
+- I am not afraid to provide my thoughts and insights to the team.
+- I am professional and friendly to all my team members and fellow employees.
 
 ## Developer
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
