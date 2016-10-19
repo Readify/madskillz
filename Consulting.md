@@ -1,4 +1,19 @@
 # Consulting Roles
+## Graduate Developer
+> I am a committed learner who will prove to be a valuable asset absorbing Readifarian values.
+
+#### I write good quality code that can be shipped to production.
+- I am learning about automated testing.
+- I am learning how to use a build and delivery pipeline.
+- I am learning how to convert client requirements into deliverable units of work.
+- I am learning to be self-sufficient when using my toolchain.
+- I understand the value add of different types of testing.
+- I am learning to implement design patters that are widely used in the industry.
+- I am learning about the infrastructure my code runs on.
+- I like to seek clarification on new technologies that I am learning.
+
+#### I show great enthusiasm and initiatives.
+- I understand the importance of PD and recognise the importance it plays in my progress.
 
 ## Developer
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
