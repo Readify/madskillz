@@ -48,7 +48,7 @@
 - People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
 - I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
 - I use code reviews as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
-- I can tactfully challenge and coach people and have them leave richer for the experience.
+- I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and Readify.
 - I am a confident and proficient teacher of my craft.
 
 #### I am a supporter of my team and my customer.
