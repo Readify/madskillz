@@ -49,7 +49,7 @@
 - I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
 - I use code reviews as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
 - I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and Readify.
-- I can effectively coach people and pass on meaningful knowledge.
+- I can effectively coach people and pass on my knowledge.
 - I am a confident and proficient teacher of my craft.
 
 #### I am a supporter of my team and my customer.
