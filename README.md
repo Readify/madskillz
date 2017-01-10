@@ -47,7 +47,8 @@ Not-yet-Readifarians are welcome to contribute ideas, however we'd encourage you
 - If you're aiming for a promotion, rate yourself on both your current role and your desired role. Looking at the desired role will provide clarity about gaps you might need to fill or grow into.
   - Consider discussing this before rating with a peer or mentor, so that they can provide feedback on your goals.
 - Change the terms...
-  - No brainer: _You're great at this! We don't even need to talk about it._
+  - No brainer: _You're great at this! Let's make sure people know about it._
+    - Maybe it would be a good idea to coach someone else in that space. 
   - Maturing: _Here's some suggestions, take them or leave them - it's your call._
     - It would make sense to record the suggestions.
   - Needs coaching: _This is an area you're weak in, let's work out a plan and walk this out together._
