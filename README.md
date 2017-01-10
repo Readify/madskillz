@@ -50,8 +50,10 @@ Not-yet-Readifarians are welcome to contribute ideas, however we'd encourage you
   - No brainer: _You're great at this! We don't even need to talk about it._
   - Maturing: _Here's some suggestions, take them or leave them - it's your call._
     - It would make sense to record the suggestions.
+    - It looks like you're good to take suggestions on your own.
   - Needs coaching: _This is an area you're weak in, let's work out a plan and walk this out together._
     - It would make sense to record the coaching plan.
+    - You might need some assistance in that space.
 - Call special attention to clearly outstanding/exemplary behaviour.
   - Outstanding: _You simply shine in this area like very few others. I think people deserve to know this about you._
     - This is more than just saying "I'm really, really good at this". It's saying that you're right up there with the best few across all of Readify at this.
