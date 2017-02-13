@@ -12,7 +12,7 @@
 
 #### I show great enthusiasm and initiatives.
 - I understand the importance of PD and recognise the role it plays in my progress.
-- I am learning the concepts of agile development and will try to apply within the project I am allocated to.
+- I am learning the concepts of agile development and try to apply them within the project I am allocated to.
 - I am self-directed in my learning of technologies that interest me and seek guidance on technologies I should learn to progress my career.
 - I am team player who adheres to the team's conventions and processes.
 - I am not afraid to provide my thoughts and insights to the team.
@@ -21,7 +21,7 @@
 #### I am an egoless, team oriented developer.
 - Other team members genuinely want me on their team.
 - I avoid going dark and I know when to call out for help.
-- I am learning about all processes of the team and try to follow them (like maintaining accurate documentation, adding test and so on). 
+- I am learning about all processes of the team and try to follow them (like maintaining accurate documentation, adding tests and so on). 
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - I try to develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
