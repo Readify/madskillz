@@ -1,4 +1,30 @@
 # Consulting Roles
+## Graduate Developer
+> I am a committed student of Readifarian values.
+
+#### I write good quality code that can be shipped to production.
+- I am learning how to use a build and delivery pipeline.
+- I am learning how to convert client requirements into deliverable units of work.
+- I am competent with the tools and core building blocks used by our team.
+- I understand the value add of different types of testing such as automated and manual testing.
+- I am learning to implement design patterns that are widely used.
+- I am learning about the infrastructure my code runs on.
+
+#### I show great enthusiasm and initiatives.
+- I understand the importance of PD and recognise the role it plays in my progress.
+- I am learning the concepts of agile development and try to apply them within the project I am allocated to.
+- I am self-directed in my learning of technologies that interest me and seek guidance on technologies I should learn to progress my career.
+- I am team player who adheres to the team's conventions and processes.
+- I am not afraid to provide my thoughts and insights to the team.
+- I am professional and friendly to all my team members and fellow employees.
+
+#### I am an egoless, team oriented developer.
+- Other team members genuinely want me on their team.
+- I avoid going dark and I know when to call out for help.
+- I am learning about all processes of the team and try to follow them (like maintaining accurate documentation, adding tests and so on). 
+- Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
+- I try to develop a friendly and professional rapport with my customer and their team members.
+- My contributions to team discussions are net-positive, informative and helpful.
 
 ## Developer
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
