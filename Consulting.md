@@ -80,7 +80,6 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 #### I am trusted to lead a small team (of up to 3) to ship a full product from idea to production with limited supervision.
 - I am maturing as a leader of people.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
-- I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
