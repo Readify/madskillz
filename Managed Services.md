@@ -90,7 +90,7 @@ I represent the value Readify brings to the market.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - ~~I am typically the first one to take responsibility for reducing waste in our process.~~
 - I am comfortable performing business analysis work. I help customers (Product Owners) clarify their product vision and turn it into an ordered product backlog, or other form of requirements, collaborating with them to reach a shared understanding of what should be built, including acceptance criteria.
-- ~~I recognise problems with my team, my engagement and/or my customer and proactively engage with relevant Account Managers, People Managers, LC/PCs as needed to prevent or resolve them quickly.~~
+- I recognise problems with my team, my customer and proactively engage with my Manager, relevant Account Managers, People Managers, PCs as needed to prevent or resolve them quickly.
 - I am proactively reviewing other people's code so I can understand how best to help the team ship the best!
 
 #### I am investing back into Readify.
