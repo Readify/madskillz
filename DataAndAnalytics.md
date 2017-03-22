@@ -1,4 +1,6 @@
-# Consulting Roles
+# Data and Analytics Roles
+
+<!---
 ## Graduate Developer
 > I am a committed student of Readifarian values.
 
@@ -25,8 +27,9 @@
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - I try to develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
+--->
 
-## Developer
+## Analyst
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
 
 #### I write high quality code quickly and ship it to production.
@@ -56,7 +59,7 @@
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
-## Senior Developer
+## Senior Analyst
 > I am a highly sought-after member of a Readify team with a proven record of shipping high-quality code to production.
 
 #### I am trusted to ship full products (or vertical slices of larger products) from idea to production.
@@ -95,11 +98,14 @@
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
 
+<!----
 ## Engineering Branch
 
 At this point, some people may choose to take the [engineering branch](Engineering.md).
+--->
 
 
+<!---
 ## Senior Consultant
 > I am a well-rounded developer, architect, problem solver and leader of people. I represent the value Readify brings to the market.
 
@@ -127,6 +133,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am mentoring another Readifarian, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
+--->
 
 ## Lead Consultant
 > I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering projects from inception to their successful completion.
