@@ -80,7 +80,7 @@ New things for consideration:
 - I am a self-managing team member who is continuously learning and embracing agile methodologies.
 <!--- All the other points in the section above are unmodified from Consulting stream --->
 
-#### I am an egoless, team-oriented data and analytics practitioner.
+#### I am an egoless, team-oriented practitioner of data and analytics.
 - Other team members genuinely want me on their team.
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
@@ -175,6 +175,7 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 --->
 
 ## Lead Consultant
+<!--- LC requires only one very minor change --->
 > I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering projects from inception to their successful completion.
 
 #### I am becoming a respected and trusted leader of people.
@@ -184,7 +185,8 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am exhibiting the soft skills needed to lead teams and have a track record of building growth and maturity into the people I work with.
 - I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality.
-- I am comfortable with helping my customer inspect and measure the impact and value of their software initiatives and communicate results in an objective and transparent way.
+- I am comfortable with helping my customer inspect and measure the impact and value of their data and analytics initiatives and communicate results in an objective and transparent way.
+<!--- ^^^ Above just changed "software" to "data and analytics" --->
 - I am an exemplary communicator, and have a proven track record of deriving the right outcomes from difficult conversations over all mediums. People seek my input to validate and improve their own communications. 
 
 #### I am a servant leader for my team.
@@ -205,21 +207,26 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am involved in some kind of initiative at the national level in Readify.
 
 ## Principal Consultant
+<!--- PC might just need a few wording changes to move away from software assumption --->
 > I epitomise and embody Readify and our Discover, Master, Influence mantra. I have a wealth of experience and readily share it with Readify teams and our customers.
 
 #### I am a deeply respected leader of people.
 - My influence and guidance positively affects teams and individuals both inside and outside of Readify.
 - I use my soft skills to bring out the best in both our people and our customers and encourage them to grow.
 - I'm not afraid to have difficult conversations when needed, and do so with tact and care.
+<!--- ^^^ For above, don't like "not afraid", prefer simple "I will", but that's somewhat stylistic ... --->
 - I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
 - I know when and how to apply different coaching and mentoring techniques, understanding the maturity level of those I'm helping.
 - I am able to provide perspective for those I'm serving by reminding them of the big picture when they get stuck in the details and day to day of solving problems.
 
-#### I know the pressures of being an executive
+#### I know the pressures of being an executive.
 - I know how to identify business problems/goals and evaluate the ROI and TCO of potential solutions.
+<!--- ^^^ For above, don't like acronyms, prefer fully spelt out, but that's somewhat stylistic ... --->
 - I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
 - I understand the bigger picture of how IT Pros, software development, security and other business departments all interrelate and influence the success of a business.
+<!--- ^^^ Above might be worth some thought on re-word for D&A ... --->
 - I know how to adjust my communications style based on my audience, from service desk to developer to engineer to sales and marketing to C-level executives and business owners.
+<!--- ^^^ Above might be worth some thought on re-word for D&A ... --->
 - I know the impact of internal politics in organisations and how it can impact decision making processes. I can navigate politicised environments and still bring about positive outcomes for our customers.
 - I know what is required to bring about organisational change, and when enough trust has been established to broach such topics with customers.
 
