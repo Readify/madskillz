@@ -143,26 +143,30 @@ New things for consideration:
 At this point, some people may choose to take the [engineering branch](Engineering.md).
 --->
 
-
-<!---
 ## Senior Consultant
-> I am a well-rounded developer, architect, problem solver and leader of people. I represent the value Readify brings to the market.
+<!--- SC was questioned whether needed in D&A, but these skills are mostly relevant, with potentially a few changes to reflect D&A perspective instead of software dev --->
+> I am a well-rounded data and analytics practitioner, architect, problem solver and leader of people. I represent the value Readify brings to the market.
+<!--- ^^^ For above, does "architect" need to be changed to words more D&A? --->
 
-#### I am trusted to lead a small team (of up to 3) to ship a full product from idea to production with limited supervision.
+#### I am trusted to lead a small team (of up to 3) to deliver full solutions from conception to completion with limited supervision.
+<!--- ^^^ Above has wording changes to make more consistent with D&A --->
 - I am maturing as a leader of people.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
-- I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
+- I am confident making "architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability" into consideration.
+<!--- ^^^ Above needs modificaiton --->
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
-- I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
-- I am proficient at delivering software projects using agile practices.
+- I am comfortable with building a vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
+- I am proficient at delivering data and analytics projects using agile practices.
+<!--- ^^^ Above has very simple change of "software" to "data and analytics" --->
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
 #### I help our team focus on delivering value to our customers.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first one to take responsibility for reducing waste in our process.
-- I am comfortable performing business analysis work. I help customers (Product Owners) clarify their product vision and turn it into an ordered product backlog, or other form of requirements, collaborating with them to reach a shared understanding of what should be built, including acceptance criteria.
+- I am comfortable performing business analysis work. I help customers (Product Owners) clarify their vision and turn it into an "ordered product backlog", or other form of requirements, collaborating with them to reach a shared understanding of what should be achieved, including acceptance criteria.
+<!--- ^^^ Concepts seem relevant, but wording needs to be addressed for D&A --->
 - I recognise problems with my team, my engagement and/or my customer and proactively engage with relevant Account Managers, People Managers, LC/PCs as needed to prevent or resolve them quickly.
 
 #### I am investing back into Readify.
@@ -172,7 +176,6 @@ At this point, some people may choose to take the [engineering branch](Engineeri
 - I am mentoring another Readifarian, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
---->
 
 ## Lead Consultant
 <!--- LC requires only one very minor change --->
