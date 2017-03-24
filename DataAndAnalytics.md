@@ -39,6 +39,7 @@ Apporach has been to align as closely as possible with existing Consulting point
 	
 This raises a problem: maintaining consistency between Consulting and D&A for the many points
 that are variations on the same theme
+	*** SEE POINT FOR CONSIDERATION BELOW ***
 
 "Translations"/transitions:
 	- writing code = developing/constucting a solution
@@ -50,9 +51,17 @@ that are variations on the same theme
 New things for consideration:
 	- Analysing the problem, keeping sight of the goal
 	- Recognising when something is wrong, estimating answers, fixing errors
-	- Explaining solutions, communicating effectively, technical writing, presenting results, etc.
 	- Focus on the concepts
 --->
+
+
+<!---
+*** FOR CONSIDERATION ***
+If goes as suggested here, D&A is not that different from consulting--often there are equivalent ideas but from a different perspective with diff terminology
+*Might* be better to combine into one single file, but where wording differs, then indiicate as a subpoint or as a xor point (choose the one most appropriate for your stream)
+--->
+
+
 
 ## Analyst
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
@@ -88,7 +97,7 @@ New things for consideration:
 - I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, "maintaining test" and so on).
 <!--- ^^^ Concept is correct, maybe adjust wording? --->
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
-- Every venture has mundane tasks and I work "happily and" diligently through them.
+- Every venture has mundane tasks and I work happily and diligently through them.
 <!--- I don't like "happily" in this one. Maybe more like "I don't complain" --->
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
@@ -137,10 +146,12 @@ New things for consideration:
 <!--- ^^^ Again, not keen on "happily" here (unnecessary adverb) ... but is ultimately a stylistic decision --->
 <!--- All of the above in this section are applicable and don't need modification --->
 
-<!----
-## Engineering Branch
 
-At this point, some people may choose to take the [engineering branch](Engineering.md).
+
+<!---
+WORTH CONSIDERING:
+The levels of SC, LC, PC barely need any adjustment to fit D&A
+Maybe with some subtle word changes for the whole of Readify, they can be used for both software dev and D&A--this has advantage of easiliy maintainable consistency
 --->
 
 ## Senior Consultant
