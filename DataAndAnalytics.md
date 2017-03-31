@@ -1,104 +1,32 @@
 # Data and Analytics Roles
 
-<!---
-## Graduate Developer
-> I am a committed student of Readifarian values.
-
-#### I write good quality code that can be shipped to production.
-- I am learning how to use a build and delivery pipeline.
-- I am learning how to convert client requirements into deliverable units of work.
-- I am competent with the tools and core building blocks used by our team.
-- I understand the value add of different types of testing such as automated and manual testing.
-- I am learning to implement design patterns that are widely used.
-- I am learning about the infrastructure my code runs on.
-
-#### I show great enthusiasm and initiatives.
-- I understand the importance of PD and recognise the role it plays in my progress.
-- I am learning the concepts of agile development and try to apply them within the project I am allocated to.
-- I am self-directed in my learning of technologies that interest me and seek guidance on technologies I should learn to progress my career.
-- I am team player who adheres to the team's conventions and processes.
-- I am not afraid to provide my thoughts and insights to the team.
-- I am professional and friendly to all my team members and fellow employees.
-
-#### I am an egoless, team oriented developer.
-- Other team members genuinely want me on their team.
-- I avoid going dark and I know when to call out for help.
-- I am learning about all processes of the team and try to follow them (like maintaining accurate documentation, adding tests and so on). 
-- Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
-- I try to develop a friendly and professional rapport with my customer and their team members.
-- My contributions to team discussions are net-positive, informative and helpful.
---->
-
-
-<!--- NOTES:
-Apporach has been to align as closely as possible with existing Consulting points
-	- Modify wording/intent to move from software dev to D&A
-	- Avoid cosmetic/stylistic changes (where possible)
-	- Where possible, incorporate draft work already done for BI Mad Skillz
-	- Minimise completely new additions
-	
-This raises a problem: maintaining consistency between Consulting and D&A for the many points
-that are variations on the same theme
-	*** SEE POINT FOR CONSIDERATION BELOW ***
-
-"Translations"/transitions:
-	- writing code = developing/constucting a solution
-	- technical debt = believe concept holds, but under different name?
-	- autmoated tests = is there an equivalent?
-	- product = analysing/deconstructing problems, constructing/developing solutions
-	- build and delivery pipeline = is there an equivalent?
-	
-New things for consideration:
-	- Analysing the problem, keeping sight of the goal
-	- Recognising when something is wrong, estimating answers, fixing errors
-	- Focus on the concepts
---->
-
-
-<!---
-*** FOR CONSIDERATION ***
-If goes as suggested here, D&A is not that different from consulting--often there are equivalent ideas but from a different perspective with diff terminology
-*Might* be better to combine into one single file, but where wording differs, then indiicate as a subpoint or as a xor point (choose the one most appropriate for your stream)
---->
-
-
-
 ## Analyst
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
 
-<!--- #### I write high quality code quickly and ship it to production. --->
 #### I produce high quality data and analytics solutions.
 - I am learning to tame complexity when analysing problems and constructing solutions.
 - I am learning to develop solutions that are efficient, scalable, supportable, maintainable and easily understood by others.
-<!--- ^^^ "Tech debt" term may be specific to software dev, but I think general concept applies --->
-- I am learning how to implement valuable "automated tests".
-<!--- ^^^ "automated tests" term may be specific to software dev, but I think general concept applies. Adaopted based on BI suggestion --->
+- I am learning how to implement valuable quality assurance practices.
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning how to pull together the various aspects of a solution.
-- I am learning how to stand up a "build and delivery pipeline".
-<!--- ^^^ Does the above relate to providing a deployable solution, is this necessary? --->
+- I am learning how to stand up a build and delivery pipeline.
 - I am employing the right techniques to develop a solution that meets my client's needs.
-<!--- ^^^ above modified from: I am writing the correct code - code that meets my client's needs --->
 
 #### I am recognised by my desire to learn and my motivation to improve.
 - I am learning, maybe through a variety of ways like reading books, exploring the problems and solutions of others, trying and experimenting with ideas, undertaking certifications, watching online courses, attending conferences or user group meetings.
-<!--- ^^^ Minor modifications to this one above --->
 - I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
 - I take my PD seriously and realise it is valuable to both myself and to Readify.
 - I reach out to my peers and leadership group to develop my PD plan.
 - I am a self-managing team member who is continuously learning and embracing agile methodologies.
-<!--- All the other points in the section above are unmodified from Consulting stream --->
 
 #### I am an egoless, team-oriented practitioner of data and analytics.
 - Other team members genuinely want me on their team.
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
 - I communicate professionally and keep stakeholders engaged at all times. 
-- I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, "maintaining test" and so on).
-<!--- ^^^ Concept is correct, maybe adjust wording? --->
+- I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, undertaking quality assurance and so on).
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks and I work happily and diligently through them.
-<!--- I don't like "happily" in this one. Maybe more like "I don't complain" --->
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
@@ -108,22 +36,18 @@ If goes as suggested here, D&A is not that different from consulting--often ther
 #### I am trusted to deliver full solutions (or vertical slices of larger solutions) from conception to completion.
 - I am proficient with my tools and the core building blocks used by our team.
 - I can confidently step outside my comfort zone and adapt quickly to new concepts, techniques or technologies.
-<!--- ^^^ Above has minor wording changes --->
 - I am proficient at developing solutions that are efficient, scalable, supportable, maintainable and easily understood by others.
-<!--- ^^^ Above adappted from: I am proficient at qualifying and reducing technical debt. --->
 - I am comfortable pulling together the Lego blocks of a full solution.
-- I am comfortable standing up "an automated integration and delivery pipeline".
-<!--- ^^^ Likely to be an equivalent for D&A to the above --->
+- I am comfortable standing up an automated integration and delivery pipeline.
 - I am comfortable determining technical direction within brown-fields projects.
-- I know how to make pragmatic decisions in order to deliver a soltuion.
+- I know how to make pragmatic decisions in order to deliver a solution.
 - I know when to call out for help and how to do it effectively.
 - I am technically persuasive.
 
 #### I am a technical mentor.
 - People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
 - I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
-- I use "code reviews" as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
-<!--- ^^^ Above concept still holds for D&A, but what is the equivalent of a "code review"? --->
+- I use peer reviews as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
 - I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and Readify.
 - I can effectively coach people and pass on my knowledge.
 - I am a confident and proficient teacher of my craft.
@@ -143,41 +67,25 @@ If goes as suggested here, D&A is not that different from consulting--often ther
 - I am devoted to learning; it's become a natural part of my life.
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
-<!--- ^^^ Again, not keen on "happily" here (unnecessary adverb) ... but is ultimately a stylistic decision --->
-<!--- All of the above in this section are applicable and don't need modification --->
-
-
-
-<!---
-WORTH CONSIDERING:
-The levels of SC, LC, PC barely need any adjustment to fit D&A
-Maybe with some subtle word changes for the whole of Readify, they can be used for both software dev and D&A--this has advantage of easiliy maintainable consistency
---->
 
 ## Senior Consultant
-<!--- SC was questioned whether needed in D&A, but these skills are mostly relevant, with potentially a few changes to reflect D&A perspective instead of software dev --->
 > I am a well-rounded data and analytics practitioner, architect, problem solver and leader of people. I represent the value Readify brings to the market.
-<!--- ^^^ For above, does "architect" need to be changed to words more D&A? --->
 
-#### I am trusted to lead a small team (of up to 3) to deliver full solutions from conception to completion with limited supervision.
-<!--- ^^^ Above has wording changes to make more consistent with D&A --->
+#### I am trusted to lead a small team (of up to 3) to deliver full analytical solutions from conception to completion with limited supervision.
 - I am maturing as a leader of people.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
-- I am confident making "architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability" into consideration.
-<!--- ^^^ Above needs modificaiton --->
+- I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I am comfortable with building a vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
-- I am proficient at delivering data and analytics projects using agile practices.
-<!--- ^^^ Above has very simple change of "software" to "data and analytics" --->
+- I am proficient at delivering data and analytics products using agile practices.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
 #### I help our team focus on delivering value to our customers.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first one to take responsibility for reducing waste in our process.
-- I am comfortable performing business analysis work. I help customers (Product Owners) clarify their vision and turn it into an "ordered product backlog", or other form of requirements, collaborating with them to reach a shared understanding of what should be achieved, including acceptance criteria.
-<!--- ^^^ Concepts seem relevant, but wording needs to be addressed for D&A --->
+- I am comfortable performing business analysis work. I help customers (Product Owners) clarify their vision and turn it into an ordered product backlog, or other form of requirements, collaborating with them to reach a shared understanding of what should be achieved, including acceptance criteria.
 - I recognise problems with my team, my engagement and/or my customer and proactively engage with relevant Account Managers, People Managers, LC/PCs as needed to prevent or resolve them quickly.
 
 #### I am investing back into Readify.
@@ -189,7 +97,6 @@ Maybe with some subtle word changes for the whole of Readify, they can be used f
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
 
 ## Lead Consultant
-<!--- LC requires only one very minor change --->
 > I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering projects from inception to their successful completion.
 
 #### I am becoming a respected and trusted leader of people.
@@ -199,8 +106,7 @@ Maybe with some subtle word changes for the whole of Readify, they can be used f
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
 - I am exhibiting the soft skills needed to lead teams and have a track record of building growth and maturity into the people I work with.
 - I am comfortable with helping customers understand how to organise requirements to support scaling to multiple teams, and helping them balance the "iron triangle" constraints of time, cost, scope and quality.
-- I am comfortable with helping my customer inspect and measure the impact and value of their data and analytics initiatives and communicate results in an objective and transparent way.
-<!--- ^^^ Above just changed "software" to "data and analytics" --->
+- I am comfortable with helping my customer inspect and measure the impact and value of their data and analytics initiatives and communicate results and recommendations in an objective and transparent way.
 - I am an exemplary communicator, and have a proven track record of deriving the right outcomes from difficult conversations over all mediums. People seek my input to validate and improve their own communications. 
 
 #### I am a servant leader for my team.
@@ -221,26 +127,21 @@ Maybe with some subtle word changes for the whole of Readify, they can be used f
 - I am involved in some kind of initiative at the national level in Readify.
 
 ## Principal Consultant
-<!--- PC might just need a few wording changes to move away from software assumption --->
 > I epitomise and embody Readify and our Discover, Master, Influence mantra. I have a wealth of experience and readily share it with Readify teams and our customers.
 
 #### I am a deeply respected leader of people.
 - My influence and guidance positively affects teams and individuals both inside and outside of Readify.
 - I use my soft skills to bring out the best in both our people and our customers and encourage them to grow.
 - I'm not afraid to have difficult conversations when needed, and do so with tact and care.
-<!--- ^^^ For above, don't like "not afraid", prefer simple "I will", but that's somewhat stylistic ... --->
 - I set clear expectations for people and they know how they are progressing against those expectations. I create bounded environments for action and let people have freedom within those boundaries.
 - I know when and how to apply different coaching and mentoring techniques, understanding the maturity level of those I'm helping.
 - I am able to provide perspective for those I'm serving by reminding them of the big picture when they get stuck in the details and day to day of solving problems.
 
 #### I know the pressures of being an executive.
 - I know how to identify business problems/goals and evaluate the ROI and TCO of potential solutions.
-<!--- ^^^ For above, don't like acronyms, prefer fully spelt out, but that's somewhat stylistic ... --->
 - I understand how budgeting, competition, strategic alignment and compliance pressures can influence technology decisions and am able to adjust proposed solutions based on those factors.
-- I understand the bigger picture of how IT Pros, software development, security and other business departments all interrelate and influence the success of a business.
-<!--- ^^^ Above might be worth some thought on re-word for D&A ... --->
-- I know how to adjust my communications style based on my audience, from service desk to developer to engineer to sales and marketing to C-level executives and business owners.
-<!--- ^^^ Above might be worth some thought on re-word for D&A ... --->
+- I understand the bigger picture of how IT Pros, software development, data and analytics, security and other business departments all interrelate and influence the success of a business.
+- I know how to adjust my communications style based on my audience, from service desk to developer to analyst to engineer to sales and marketing to C-level executives and business owners.
 - I know the impact of internal politics in organisations and how it can impact decision making processes. I can navigate politicised environments and still bring about positive outcomes for our customers.
 - I know what is required to bring about organisational change, and when enough trust has been established to broach such topics with customers.
 
