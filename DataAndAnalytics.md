@@ -45,9 +45,9 @@
 - I am technically persuasive.
 
 #### I am a technical mentor.
-- People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
-- I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
-- I use peer reviews as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
+- People ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
+- I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, or sharing useful videos/blogs/papers.
+- I use peer reviews as an opportunity to teach and show others alternative, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
 - I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and Readify.
 - I can effectively coach people and pass on my knowledge.
 - I am a confident and proficient teacher of my craft.
@@ -95,9 +95,10 @@
 - I am mentoring another Readifarian, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
+- I am assisting in building the Data and Analytics team, doing things like helping with hiring, setting up our processes, assisting with induction or mentoring others.
 
 ## Lead Consultant
-> I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering projects from inception to their successful completion.
+> I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering products from inception to their successful completion.
 
 #### I am becoming a respected and trusted leader of people.
 - I generally inspire people, especially those on mine and my client's teams.
@@ -125,6 +126,7 @@
 - I am helping steer the public and private conversations within Readify towards positive and productive outcomes.
 - I represent the interest of the teams in my state to rest of Readify.
 - I am involved in some kind of initiative at the national level in Readify.
+- I am assisting in building the Data and Analytics team, doing things like helping with hiring, setting up our processes, assisting with induction or mentoring others.
 
 ## Principal Consultant
 > I epitomise and embody Readify and our Discover, Master, Influence mantra. I have a wealth of experience and readily share it with Readify teams and our customers.
@@ -156,3 +158,4 @@
 - I am a trusted voice within Readify, both at a state level and nationally.
 - I take time to reflect on our identity, our people and our culture as Readify, and the way in which we work and how we deliver our engagements. I think of ways in which we can improve ourselves, engage others to validate those ideas and then invest time in implementing them.
 - I recognise that the value I bring to the company is different to the regular consulting pool and that the interactions I have with people is critical to our collective success.
+- I am assisting in building the Data and Analytics team, doing things like helping with hiring, setting up our processes, assisting with induction or mentoring others.
