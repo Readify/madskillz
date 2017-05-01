@@ -95,10 +95,14 @@
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
 
-## Engineering Branch
+----------
+## 🔀 Other Pathways
 
-At this point, some people may choose to take the [engineering branch](Engineering.md).
+At this point, some people may choose to take the [engineering branch](./Engineering.md).
 
+[Managed services](./Managed%20Services.md) roles also differ slightly after this point.
+
+----------
 
 ## Senior Consultant
 > I am a well-rounded developer, architect, problem solver and leader of people. I represent the value Readify brings to the market.
