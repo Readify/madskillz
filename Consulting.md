@@ -69,6 +69,7 @@
 - I know how to make pragmatic decisions in order to ship a product.
 - I know when to call out for help and how to do it effectively.
 - I am technically persuasive.
+- I am proficient at delivering software projects using agile practices. 
 
 #### I am a technical mentor.
 - People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
@@ -114,7 +115,7 @@ At this point, some people may choose to take the [engineering branch](./Enginee
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
-- I am proficient at delivering software projects using agile practices.
+- I am proficient at leading software projects using agile practices.
 - I can confidently and charismatically pitch ideas and influence my team and my customer's decisions.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
@@ -150,6 +151,7 @@ At this point, some people may choose to take the [engineering branch](./Enginee
 - I am an outspoken advocate of my team. They can trust me to be the first line of defence.
 - I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
 - I actively track the progress of our team using agile project management techniques, keeping the goals of the project and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
+- I am proficient at scaling agile practices to lead multiple teams. 
 
 #### I am maturing as a driver for additional business opportunities.
 - I am looking for new opportunities with my current client.
