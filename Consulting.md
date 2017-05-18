@@ -63,6 +63,7 @@
 - I am proficient with my tools and the core building blocks used by our team.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I am proficient at qualifying and reducing technical debt.
+- I am proficient at qualifying and mitigating risk.
 - I am comfortable pulling together the Lego blocks of a full product.
 - I am comfortable standing up an automated integration and delivery pipeline.
 - I am comfortable determining technical direction within brown-fields projects.
@@ -77,6 +78,7 @@
 - I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and Readify.
 - I can effectively coach people and pass on my knowledge.
 - I am a confident and proficient teacher of my craft.
+- I communicate effectively with my team and customers to ensure that I fully understand them and they fully understand me.
 
 #### I am a supporter of my team and my customer.
 - I add value to my team by being a trusted, proactive supporter of my team and its leadership, and by delivering high quality work with a minimum of fuss.
@@ -88,11 +90,16 @@
 - I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
 - I possess writing skills that let me be clear, concise, articulate and persuasive in all of my outgoing communications.
+- I Interact well with my team mates and our customers.
+- My team find me easy to work with.
+- I participate in improving Readify processes.
+- I readily share my knowledge with fellow Readifarians and client developers.
 
 #### I've become a student of my craft.
 - I am devoted to learning; it's become a natural part of my life.
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
+- I actively Challenge assumptions and participate in healthy debates to find the best solution for the situation.
 
 
 ----------
