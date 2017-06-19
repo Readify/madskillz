@@ -64,7 +64,7 @@
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I am proficient at qualifying and reducing technical debt.
 - I am comfortable pulling together the Lego blocks of a full product.
-- I am comfortable standing up an automated integration and delivery pipeline.
+- I am comfortable setting up an automated integration and delivery pipeline.
 - I am comfortable determining technical direction within brown-fields projects.
 - I know how to make pragmatic decisions in order to ship a product.
 - I know when to call out for help and how to do it effectively.
