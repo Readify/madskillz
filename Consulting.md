@@ -13,6 +13,7 @@
 #### I show great enthusiasm and initiatives.
 - I understand the importance of PD and recognise the role it plays in my progress.
 - I am learning the concepts of agile development and try to apply them within the project I am allocated to.
+- I am aware of agile practices, and am actively learning how to apply them day to day
 - I am self-directed in my learning of technologies that interest me and seek guidance on technologies I should learn to progress my career.
 - I am team player who adheres to the team's conventions and processes.
 - I am not afraid to provide my thoughts and insights to the team.
@@ -44,6 +45,7 @@
 - I take my PD seriously and realise it is valuable to both myself and to Readify.
 - I reach out to my peers and leadership group to develop my PD plan.
 - I am a self-managing team member who is continuously learning and embracing agile methodologies.
+- I am applying agile practices in my day to day work, and beginning to understand why they are important to software development
 
 #### I am an egoless, team oriented developer.
 - Other team members genuinely want me on their team.
@@ -151,7 +153,7 @@ At this point, some people may choose to take the [engineering branch](./Enginee
 - I am an outspoken advocate of my team. They can trust me to be the first line of defence.
 - I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
 - I actively track the progress of our team using agile project management techniques, keeping the goals of the project and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
-- I am proficient at scaling agile practices to lead multiple teams. 
+- I have a track record of delivering successful projects by applying agile practices when leading teams. 
 
 #### I am maturing as a driver for additional business opportunities.
 - I am looking for new opportunities with my current client.
