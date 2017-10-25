@@ -24,9 +24,11 @@ It's a living document, maintained by the very people it affects.
 
 > We are: Enthusiasm/passion, people-first, Ship It!, Leadership, Reinvest
 
-[Consulting Roles](Consulting.md)
+[Development Roles](Development.md)
 
 [Managed Services Roles](Managed%20Services.md)
+
+[Data & Analytics Roles](DataAndAnalytics.md)
 
 ## Contributions
 
