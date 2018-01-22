@@ -104,8 +104,6 @@
 
 At this point, some people may choose to take the [engineering branch](./Engineering.md).
 
-[Managed services](./Managed%20Services.md) roles also differ slightly after this point.
-
 ----------
 
 ## Senior Consultant
