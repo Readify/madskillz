@@ -1,14 +1,7 @@
 # Managed Services Roles
 
-The managed services career path starts out with the same roles as the [Development](./Development.md) path.
-
-In the interests of keeping things DRY, these roles' content are linked rather than copy-pasted.
-
-## [Graduate Developer](./Development.md#graduate-developer)
-
-## [Developer](./Development.md#developer)
-
-## [Senior Developer](./Development.md#senior-developer)
+The managed services career path is the same as [Development](./Development.md) path.
+However, there are a couple of additional roles currently in place. 
 
 ## Technical Lead
 > I am a well-rounded developer, problem solver and mentor for people. I represent the unconventional value Readify brings to the market.
@@ -35,6 +28,7 @@ In the interests of keeping things DRY, these roles' content are linked rather t
 - I proactively call out opportunities for Readify with my clients.
 - I am mentoring other developers, deliberately helping them to round out their skill set.
 - I am collaborating with other Technical Leads and Consultants in the fields so we can learn from each other's experiences.
+
  
 #### I am a technical mentor.
 - People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
