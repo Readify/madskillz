@@ -1,7 +1,7 @@
 # Innovation and Design Roles
 
 
-## Graduate Designer
+## Graduate Experience Designer
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
 
 #### I am learning to create high quality products
@@ -40,7 +40,7 @@
 - I can answer team member questions or direct them to the appropriate person as required.
 
 
-## UX Designer
+## Experience Designer
 > I am a highly sought-after member of a Readify team with a proven record of designing high-quality products.
 
 #### I am trusted to design usable products (or vertical slices of larger products) from ideation to production.
@@ -95,7 +95,7 @@
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
 
-## Specialist UX Designer
+## Specialist Experience Designer
 > I am a consultant with a specific UX speciality and a communicator and a problem solver. I am the go-to person in my UX area and am known outside of Readify for it. I represent the technical brilliance that Readify brings to the market.
 
 #### I am known for my deep knowledge in my area(s) of specialisation
@@ -130,7 +130,7 @@
 - I am proficient at delivering software products using agile practices.
 
 
-## Senior UX Designer
+## Senior Experience Designer
 > I am a well-rounded UX designer, problem solver and leader of people. I represent the unconventional value Readify brings to the market.
  
 #### I am trusted to lead a small team (of up to 3) to ship a full product from idea to production with limited supervision.
@@ -159,7 +159,7 @@
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
 
 
-## Lead UX Designer
+## Lead Experience Designer
 > I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering projects from inception to their successful completion.
  
 #### I am becoming a respected and trusted leader of people.
@@ -189,7 +189,7 @@
 - I am involved in some kind of initiative at the national level in Readify.
 
 
-## Principal Consultant
+## Principal Consultant - Experience Design
 > I epitomise and embody Readify and our Discover, Master, Influence mantra. I have a wealth of experience and readily share it with Readify teams and our customers.
  
 #### I am a deeply respected leader of people.
