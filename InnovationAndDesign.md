@@ -12,7 +12,7 @@
 - I am learning how to create and test prototypes.
 - I am learning how to articulate ideas into design artefacts.
 - I am learning how to communicate with the team.
-- I am becoming proficient with my tools and the core UX principles used by our team, furthermore I am aware of the range of design skillsets that make up 'Experience Design' see: https://readify.sharepoint.com/:x:/s/Innovation&Design/EUfX82ArdU1HkklNp9GUp6MBYZ6H_av7ZHuhBxvVUjJL4Q?e=l3oDyv
+- I am becoming proficient with my tools and the core UX principles used by our team, furthermore I am aware of the [range of design skillsets that make up 'Experience Design'](https://readify.sharepoint.com/:x:/s/Innovation&Design/EUfX82ArdU1HkklNp9GUp6MBYZ6H_av7ZHuhBxvVUjJL4Q?e=l3oDyv)
 - I have the ability to understand and pickupup processes and techniques when instructuted.
 - I have a basic understanding of utilisation and budgets.  
 
@@ -53,7 +53,7 @@
 #### I am recognised by my desire to learn and my motivation to improve.
 - I am learning, maybe through a variety of ways like reading books, reviewing designs and prototypes, building and testing ideas, undertaking certifications, watching online courses, attending conferences or user group meetings/ meetups.
 - I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
-- I take my PD seriously and realise it is valuable to both myself and to Readify. The skills curve is a useful framework for this discussion:https://readify.sharepoint.com/:x:/s/Innovation&Design/EUfX82ArdU1HkklNp9GUp6MBYZ6H_av7ZHuhBxvVUjJL4Q?e=l3oDyv
+- I take my PD seriously and realise it is valuable to both myself and to Readify. The [skills curve](https://readify.sharepoint.com/:x:/s/Innovation&Design/EUfX82ArdU1HkklNp9GUp6MBYZ6H_av7ZHuhBxvVUjJL4Q?e=l3oDyv) is a useful framework for this discussion.
 - I reach out to my peers and leadership group to develop my PD plan.
 - I am a self-managing team member who is continuously learning and embracing agile methodologies.
 - I am applying lean & agile practices in my day to day work, and beginning to understand why they are important to software development.
