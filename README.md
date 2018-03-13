@@ -30,6 +30,8 @@ It's a living document, maintained by the very people it affects.
 
 [Data & Analytics Roles](DataAndAnalytics.md)
 
+[Innovation & Design Roles](InnovationAndDesign.md)
+
 ## Contributions
 
 Readifarians should raise issues and pull requests.
