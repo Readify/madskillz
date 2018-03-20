@@ -50,7 +50,7 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 #### I am a servant leader for my team
 - I split large difficult problems into smaller more tractable problems that can be tackled by junior team members.
 - I am prioritising the needs of my team members above my own, knowing that their success is our success.
-- I encourage collaboration, knowledge sharing, and provide others the opportunity to solve problems.
+- I encourage collaborating, sharing knowledge, and providing others the opportunity to solve problems.
 - I promote a safe and non-judgemental environment where people can fail and learn.
 - I am a supportive escalation point for my team, knowing when to step in and assist them and when to step back after a gentle push. 
 
