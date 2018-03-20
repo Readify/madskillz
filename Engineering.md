@@ -70,8 +70,8 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 - With my proven record of success, previous clients are keen to work with Readify again.
  
 #### I am significantly investing back into Readify
-- I am working with the state delivery manager and PCs to identify areas for potential standardisation. 
+- I am working with the state Delivery Manager and Principal Consultants to identify areas for potential standardisation. 
 - I am involved in some kind of initiative at the national level in Readify.
 - I am becoming a trusted voice from a technical perspective to the Readify Executive and my opinions and ideas seem to carry some weight.
 - I am actively driving the Discover, Master, Influence mantra across the state and am contributing to this at a national level.
-- I am an active technology thought leader, spiking up POCs and experimentations, looking for ways to improve Readify’s technology offerings.
+- I am an active technology thought leader, spiking up proof-of-concepts and experimentations, looking for ways to improve Readify’s technology offerings.
