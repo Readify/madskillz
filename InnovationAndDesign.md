@@ -112,11 +112,6 @@
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
-
-## Other Pathways
-
-There are no other pathways. All designers are consultants.
-
 ## Senior Experience Design Consultant
 > I am a well-rounded researcher, designer, problem solver and leader of people. I represent the value Readify brings to the market.
 
