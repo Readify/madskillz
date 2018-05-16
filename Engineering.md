@@ -8,7 +8,7 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 > I am a consultant, an architect, and a communicator and a problem solver. I am the go-to person in the general technology area. I represent the technical brilliance that Readify brings to the market.
 
 #### I am known for my technical knowledge
-- I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+- I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles. This may include (but is not limited to) speaking at conferences and user groups, writing books or blog posts, answering Stack Overflow or forum questions, contributing on Teams and tech@, or running internal Brown Bags or workshops.
 - I am actively involved in helping guide others through tough technical challenges.
 - I contribute to open source projects.
 - I am a greatly desired team member for Readify projects.
