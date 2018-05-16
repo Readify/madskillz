@@ -2,7 +2,16 @@
 
 This repo describes each of the technical roles at Readify.
 
-It seeks to describe some **defining characteristics** about each role, and provide some concrete **examples** along the way.
+It seeks to describe some **defining characteristics** about each role, and provide some concrete **examples** along the way:
+
+  ---
+  ### Senior Developer
+  > I am a highly sought-after member of a Readify team with a proven record of shipping high-quality code to production.
+
+  #### _DEFINING CHARACTERISTIC_ I am trusted to ship full products (or vertical slices of larger products) from idea to production.
+  - _Example_ I am proficient with my tools and the core building blocks used by our team.
+  - _Example_ I can confidently step outside my comfort zone and adapt quickly to new technologies.
+  ---
 
 It's the anchor point used through all of our feedback and promotion cycles.
 
