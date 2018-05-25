@@ -1,7 +1,6 @@
 # Managed Services Roles
 
-The managed services career path is the same as [Development](./Development.md) path.
-However, there are a couple of additional roles currently in place. 
+The beginning of the Managed Services career path is the same as the [Development](./Development.md) path, however, after Senior Developer there is a branch to the below roles.
 
 ## Technical Lead
 > I am a well-rounded developer, problem solver and mentor for people. I represent the unconventional value Readify brings to the market.
