@@ -1,7 +1,7 @@
 # Development Roles
 
 ## Graduate Developer
-> I am a committed student of Readifarian values.
+> I am a committed student of Readifarian values and beliefs.
 
 #### I write good quality code that can be shipped to production.
 - I am learning how to use a build and delivery pipeline.
@@ -82,7 +82,7 @@
 - I can effectively coach people and pass on my knowledge.
 - I am a confident and proficient teacher of my craft.
 
-#### I am a supporter of my team and my customer.
+#### I am focussed on the success of my team and my customer, without the need to boost my ego.
 - I add value to my team by being a trusted, proactive supporter of my team and its leadership, and by delivering high quality work with a minimum of fuss.
 - I seek to understand my customer's real needs and am comfortable building requirements and technical recommendations off those.
 - I recognise problems early and get in and fix them regardless of whose fault it is.
