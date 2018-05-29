@@ -12,16 +12,18 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 - I am actively involved in helping guide others through tough technical challenges.
 - I contribute to open source projects.
 - I am a greatly desired team member for Readify projects.
+
+#### I am adaptable
+- I realise that there are many tools that can solve a given problem and each have their own pros and cons.
+- I can adapt to a given situation and can learn and implement new technologies with very short notice.
+
+#### I am maturing as a thought leader in technology and architecture
 - I have a wide understanding of software development technology and practices, backed by extensive practical experience.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, performance, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I can apply my technical abilities to productively solve business problems with confidence and pragmatism.
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
 - I have the skills, speed and knowledge that enable me to consistently be one of the most productive team members of any team I am part of.
-
-#### I am adaptable
-- I realise that there are many tools that can solve a given problem and each have their own pros and cons.
-- I can adapt to a given situation and can learn and implement new technologies with very short notice.
 
 #### I communicate technical concepts confidently and clearly
 - I have developed strong presentation skills and am able to tailor my content and conversation to the audience.
