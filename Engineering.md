@@ -42,7 +42,7 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 > I am a trusted technical mentor who not only solves problems but proactively finds problems. I am known to make problems melt away and use my expert status and knowledge to influence technical decisions that ensure successful outcomes.
 
 #### I am a respected technical mentor
-- I help my team members grow their technical capabilities.
+- I naturally help my team members grow their technical capabilities.
 - I share my knowledge proactively through internal social platforms, ThingSpace, videos, blogs, workshops, and brown bags. 
 - I am one of the technical go-to people in the state and actively assist with complex problem solving within and outside of my own engagements.
 - I can influence technical decisions and guide technical direction as a solution evolves.  
