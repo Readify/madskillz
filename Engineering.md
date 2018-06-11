@@ -11,7 +11,6 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles. This may include (but is not limited to) speaking at conferences and user groups, writing books or blog posts, answering Stack Overflow or forum questions, contributing on Teams and tech@, or running internal Brown Bags or workshops.
 - I am actively involved in helping guide others through tough technical challenges.
 - I contribute to open source projects.
-- I am a greatly desired team member for Readify projects.
 
 #### I am adaptable
 - I realise that there are many tools that can solve a given problem and each have their own pros and cons.
@@ -23,7 +22,7 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
 - I can apply my technical abilities to productively solve business problems with confidence and pragmatism.
 - I am comfortable with building a product vision with a customer based on their business needs, regardless of whether this involves technology or otherwise.
-- I have the skills, speed and knowledge that enable me to consistently be one of the most productive team members of any team I am part of.
+- I use my skills, speed and knowledge to help my team be very productive.
 
 #### I communicate technical concepts confidently and clearly
 - I have developed strong presentation skills and am able to tailor my content and conversation to the audience.
@@ -43,7 +42,7 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 > I am a trusted technical mentor who not only solves problems but proactively finds problems. I am known to make problems melt away and use my expert status and knowledge to influence technical decisions that ensure successful outcomes.
 
 #### I am a respected technical mentor
-- People want to work on engagements with me because they know I will help them grow their technical capabilities.
+- I naturally help my team members grow their technical capabilities.
 - I share my knowledge proactively through internal social platforms, ThingSpace, videos, blogs, workshops, and brown bags. 
 - I am one of the technical go-to people in the state and actively assist with complex problem solving within and outside of my own engagements.
 - I can influence technical decisions and guide technical direction as a solution evolves.  
