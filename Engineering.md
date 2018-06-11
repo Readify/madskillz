@@ -16,7 +16,7 @@ Being technical does not eliminate the need to utilise soft skills, as you will 
 - I realise that there are many tools that can solve a given problem and each have their own pros and cons.
 - I can adapt to a given situation and can learn and implement new technologies with very short notice.
 
-#### I am more than a Senior Developer
+#### I am maturing as a thought leader in technology and architecture
 - I have a wide understanding of software development technology and practices, backed by extensive practical experience.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, performance, concurrency and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately and dealing with the consequences along the way.
