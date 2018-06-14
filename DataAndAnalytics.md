@@ -1,6 +1,6 @@
 # Data and Analytics Roles
 
-## Analyst
+## Developer
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
 
 #### I produce high quality data and analytics solutions.
@@ -30,7 +30,7 @@
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
-## Senior Analyst
+## Senior Developer
 > I am a highly sought-after member of a Readify team with a proven record of producing high quality data and analytics solutions.
 
 #### I am trusted to deliver full solutions (or vertical slices of larger solutions) from conception to completion.
