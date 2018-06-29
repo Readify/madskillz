@@ -102,7 +102,7 @@
 ----------
 ## 🔀 Pathways
 
-At this point, you may choose to take the [engineering](#engineering-pathway) or [consulting](#consulting-pathway) pathway.
+At this point, you may choose to take the [consulting](#consulting-pathway) or [engineering](#engineering-pathway) pathway.
 
 ----------
 
