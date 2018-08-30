@@ -1,6 +1,6 @@
 # Design Roles
 
-## Graduate Experience Designer
+## Graduate Designer
 > I am a committed student of Readifarian values.
 
 #### I create good quality designs that can be understood and developed into software products.
@@ -33,7 +33,7 @@
 - I try to develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
-## Experience Designer
+## Designer
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
 
 #### I create customer centric outcomes by working closely with customers, the business, and development teams.
@@ -69,7 +69,7 @@
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
-## Senior Experience Designer
+## Senior Designer
 > I am a highly sought-after member of a Readify team with a proven record of delivering high-quality outcomes that balance the needs of the client, the (Readify) Delivery Team, and the goals of the engagement.
 
 #### I am trusted to explore and define meaningful problems to solve, and am able to deliver relevant solutions as part of a small team, in low to medium levels of complexity.
@@ -112,7 +112,7 @@
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
-## Senior Experience Design Consultant
+## Senior Consultant
 > I am a well-rounded researcher, designer, problem solver and leader of people. I represent the value Readify brings to the market.
 
 #### I am trusted to lead a small team (of up to 3) to ship a full product from idea to production with limited supervision.
@@ -140,7 +140,7 @@
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
 
-## Lead Experience Design Consultant
+## Lead Consultant
 > I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering projects from inception to their successful completion.
 
 #### I am becoming a respected and trusted leader of people.
