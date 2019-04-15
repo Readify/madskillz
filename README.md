@@ -33,13 +33,20 @@ It's a living document, maintained by the very people it affects.
 
 > We are: Enthusiasm/passion, people-first, Ship It!, Leadership, Reinvest
 
-[Development Roles](Development.md)
+### Development Practice
 
-[Managed Services Roles](Managed%20Services.md)
+- [Development Roles](Development.md)
+- [Consulting Roles](Consulting.md)
+- [Engineering Roles](Engineering.md)
+- [Managed Services Roles](Managed%20Services.md)
 
-[Data & Analytics Roles](DataAndAnalytics.md)
+### Data & Analytics Practice
 
-[Innovation & Design Roles](InnovationAndDesign.md)
+- [Data & Analytics Roles](DataAndAnalytics.md)
+
+### Innovation & Design Practice
+
+- [Innovation & Design Roles](InnovationAndDesign.md)
 
 ## Contributions
 
