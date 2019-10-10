@@ -72,7 +72,7 @@
 > I am a well-rounded data and analytics practitioner, architect, problem solver and leader of people. I represent the value Readify brings to the market.
 
 #### I am trusted to lead a small team (of up to 3) to deliver full analytical solutions from conception to completion with limited supervision.
-- I am maturing as a leader of people.
+- I am emerging as a leader of people.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
 - I am comfortable diving head-first into moderately risky environments with relatively little upfront information and oversight.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency and maintainability into consideration.
@@ -116,7 +116,7 @@
 - I know the buck stops with me. At the end of the day I am responsible for my team and the relationship with our client.
 - I actively track the progress of our team using agile project management techniques, keeping the goals of the project and our constraints front of mind. I make this information visible and transparent internally and externally to minimise 'surprises' and to facilitate early and pragmatic problem resolution.
 
-#### I am maturing as a driver for additional business opportunities.
+#### I am emerging as a driver for additional business opportunities.
 - I am looking for new opportunities with my current client.
 - With my proven record of success, previous clients are keen to work with Readify again. 
 
