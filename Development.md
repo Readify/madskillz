@@ -138,7 +138,7 @@ At this point, some people may choose to take the [engineering branch](./Enginee
 > I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering projects from inception to their successful completion.
 
 #### I am becoming a respected and trusted leader of people.
-- I generally inspire people, especially those on mine and my client's teams.
+- I generally inspire people, especially those on my team, or my client's team.
 - My influence is starting to reach beyond my team, extending to other teams both inside and outside of Readify.
 - People want to work on engagements with me because they know they'll be richer for the experience and I will help them grow.
 - I am developing strong presentation skills, learning to effectively tailor my content and conversation to many audiences.
