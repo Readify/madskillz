@@ -20,7 +20,7 @@ It's a living document, maintained by the very people it affects.
 ## Background and Purpose
 
 - I want to provide a simple breakdown of what I value most about people in Readify in the hope that most of us agree.
-- I want this to read as a either a narrative or as a reference.
+- I want this to read as either a narrative or as a reference.
 - I want to use language that promotes personal ownership.
 - I want to use language people can identify with, more human than human resources.
 - I want people to be inspired to grow personally just by reading through this.
@@ -90,7 +90,7 @@ Here's what we came up with
 - I like the process to be centred around their growth as an individual
 - I don't want to try and recall everything I know about someone when reviews come around, but I'd rather have it collected as a natural by-product of leading a person.
 - I’d like to think that I’m not the one person responsible for a person’s growth/salary/promotion in Readify. I really don't want them to hunt me down :-)
-- I’d like to think that decisions for a person’s growth/salary/promotion in Readify are based on their proven growth over time, not just a because they did the right things for one month a year.
+- I’d like to think that decisions for a person’s growth/salary/promotion in Readify are based on their proven growth over time, not just because they did the right things for one month a year.
 
 ### Things our People Managers might want
 - I want insight about people's performance from those who work with them, not from hearsay.
