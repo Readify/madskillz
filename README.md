@@ -60,14 +60,18 @@ Not-yet-Readifarians are welcome to contribute ideas, however we'd encourage you
 - If you're aiming for a promotion, rate yourself on both your current role and your desired role. Looking at the desired role will provide clarity about gaps you might need to fill or grow into.
   - Consider discussing this before rating with a peer or mentor, so that they can provide feedback on your goals.
 - Change the terms...
-  - No brainer: _You're great at this! We don't even need to talk about it._
-  - Maturing: _Here's some suggestions, take them or leave them - it's your call._
+  - **Mastering**: _You're great at this!_ 
+    - Even though someone is **mastering** there's always room for improvement. Provide suggestions if you can, otherwise direct the person to someone within the Readify who can allow this person to grow further.
+  - **Discovering**: _Here's some suggestions, take them or leave them - it's your call._
     - It would make sense to record the suggestions.
-  - Needs coaching: _This is an area you're weak in, let's work out a plan and walk this out together._
+  - **Needs coaching**: _This is an area you're weak at, let's work out a plan and walk this out together._
     - It would make sense to record the coaching plan.
+    - Explain situations where the person could've done something better.
+    - Try to provide resources such as books and videos. 
 - Call special attention to clearly outstanding/exemplary behaviour.
-  - Outstanding: _You simply shine in this area like very few others. I think people deserve to know this about you._
-    - This is more than just saying "I'm really, really good at this". It's saying that you're right up there with the best few across all of Readify at this.
+  - **Influencing**: _You simply shine in this area like very few others. I think people deserve to know this about you. You are an influencer and are confident in your ability, at the same time you display a level of humility that allows you to make others feel safe around you in order to coach and mentor them in this area._
+    - This is more than just saying "I'm really, really good at this". It's saying that you're right up there with the best.
+    - Only a few across all of Readify should be rated as **influencing** for a specific MadSkill.
 
 ## The rationale behind this list
 
